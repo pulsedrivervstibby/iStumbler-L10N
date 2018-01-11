@@ -1,0 +1,132 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "127"; */
+"127.headerCell.title" = "Name";
+
+/* Class = "NSTableColumn"; headerCell.title = "Accuracy"; ObjectID = "140"; */
+"140.headerCell.title" = "Accuracy";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "285"; */
+"285.headerCell.title" = "Type";
+
+/* Class = "NSTableColumn"; headerCell.title = "Coordinates"; ObjectID = "297"; */
+"297.headerCell.title" = "Coordinates";
+
+/* Class = "NSTextFieldCell"; title = "Location Sources"; ObjectID = "100129"; */
+"100129.title" = "Location Sources";
+
+/* Class = "NSTextFieldCell"; title = "Location Sharing"; ObjectID = "100191"; */
+"100191.title" = "Location Sharing";
+
+/* Class = "NSButtonCell"; title = "Share my Location"; ObjectID = "100195"; */
+"100195.title" = "Share my Location";
+
+/* Class = "NSTextFieldCell"; title = "When Location Sharing is enabled other computers on the local network can see your current location via Bonjour."; ObjectID = "100241"; */
+"100241.title" = "When Location Sharing is enabled other computers on the local network can see your current location via Bonjour.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Current Location"; ObjectID = "300300"; */
+"300300.headerCell.title" = "Current Location";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "1rk-WM-CpR"; */
+"1rk-WM-CpR.headerCell.title" = "Time";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "3Vk-GD-llD"; */
+"3Vk-GD-llD.title" = "Name";
+
+/* Class = "NSTextFieldCell"; title = "Location Plugin"; ObjectID = "74B-z5-VHa"; */
+"74B-z5-VHa.title" = "Location Plugin";
+
+/* Class = "NSToolbarItem"; label = "Export"; ObjectID = "7rk-Lc-5un"; */
+"7rk-Lc-5un.label" = "Export";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Export"; ObjectID = "7rk-Lc-5un"; */
+"7rk-Lc-5un.paletteLabel" = "Export";
+
+/* Class = "NSTableColumn"; headerCell.title = "Speed"; ObjectID = "9vu-oC-v5k"; */
+"9vu-oC-v5k.headerCell.title" = "Speed";
+
+/* Class = "NSToolbarItem"; label = "Current Location"; ObjectID = "ESr-kT-JFG"; */
+"ESr-kT-JFG.label" = "Current Location";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Current Location"; ObjectID = "ESr-kT-JFG"; */
+"ESr-kT-JFG.paletteLabel" = "Current Location";
+
+/* Class = "NSButtonCell"; title = "Track Location Updates"; ObjectID = "FHr-dJ-r0k"; */
+"FHr-dJ-r0k.title" = "Track Location Updates";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "Gal-5r-31U"; */
+"Gal-5r-31U.headerCell.title" = "Type";
+
+/* Class = "NSToolbarItem"; label = "Info"; ObjectID = "HmO-ne-2Ne"; */
+"HmO-ne-2Ne.label" = "Info";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Info"; ObjectID = "HmO-ne-2Ne"; */
+"HmO-ne-2Ne.paletteLabel" = "Info";
+
+/* Class = "NSTextFieldCell"; title = "When Location Tracking is enabled the location plugin will record all movement of your computer, when you export the location list a track will be created on the map."; ObjectID = "L5K-YW-wn6"; */
+"L5K-YW-wn6.title" = "When Location Tracking is enabled the location plugin will record all movement of your computer, when you export the location list a track will be created on the map.";
+
+/* Class = "NSToolbarItem"; label = "Services"; ObjectID = "M8H-E1-deo"; */
+"M8H-E1-deo.label" = "Services";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Services"; ObjectID = "M8H-E1-deo"; */
+"M8H-E1-deo.paletteLabel" = "Services";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bearing"; ObjectID = "MNZ-VO-sms"; */
+"MNZ-VO-sms.headerCell.title" = "Bearing";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Nqs-aD-27K"; */
+"Nqs-aD-27K.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "NxF-Py-b8f"; */
+"NxF-Py-b8f.headerCell.title" = "Distance";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "OCb-2J-idn"; */
+"OCb-2J-idn.headerCell.title" = "Name";
+
+/* Class = "NSToolbarItem"; label = "Center"; ObjectID = "Qkc-L1-qHS"; */
+"Qkc-L1-qHS.label" = "Center";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Center"; ObjectID = "Qkc-L1-qHS"; */
+"Qkc-L1-qHS.paletteLabel" = "Center";
+
+/* Class = "NSTableColumn"; headerCell.title = "Geohash"; ObjectID = "Quy-kY-2OZ"; */
+"Quy-kY-2OZ.headerCell.title" = "Geohash";
+
+/* Class = "NSTableColumn"; headerCell.title = "○"; ObjectID = "TKd-cp-3Od"; */
+"TKd-cp-3Od.headerCell.title" = "○";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Current Location"; ObjectID = "UAX-Vo-9VG"; */
+"UAX-Vo-9VG.placeholderString" = "Current Location";
+
+/* Class = "NSMenuItem"; title = "Maps"; ObjectID = "Xwz-19-JgY"; */
+"Xwz-19-JgY.title" = "Maps";
+
+/* Class = "NSTextFieldCell"; title = "Location Tracking"; ObjectID = "cWu-55-frL"; */
+"cWu-55-frL.title" = "Location Tracking";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vert Accuracy"; ObjectID = "flk-Iv-IFb"; */
+"flk-Iv-IFb.headerCell.title" = "Vert Accuracy";
+
+/* Class = "NSToolbarItem"; label = "Zoom"; ObjectID = "ken-Dy-Q0v"; */
+"ken-Dy-Q0v.label" = "Zoom";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Zoom"; ObjectID = "ken-Dy-Q0v"; */
+"ken-Dy-Q0v.paletteLabel" = "Zoom";
+
+/* Class = "NSTableColumn"; headerCell.title = "Course"; ObjectID = "mEJ-TN-MU8"; */
+"mEJ-TN-MU8.headerCell.title" = "Course";
+
+/* Class = "NSTableColumn"; headerCell.title = "Horz Accuracy"; ObjectID = "pYy-g4-0Wh"; */
+"pYy-g4-0Wh.headerCell.title" = "Horz Accuracy";
+
+/* Class = "NSToolbarItem"; label = "View"; ObjectID = "tgu-wp-VUC"; */
+"tgu-wp-VUC.label" = "View";
+
+/* Class = "NSToolbarItem"; paletteLabel = "View"; ObjectID = "tgu-wp-VUC"; */
+"tgu-wp-VUC.paletteLabel" = "View";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "uXc-8X-yAl"; */
+"uXc-8X-yAl.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yzk-FD-JkS"; */
+"yzk-FD-JkS.title" = "Text Cell";

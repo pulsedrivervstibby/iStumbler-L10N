@@ -1,0 +1,51 @@
+
+/* Class = "NSTabViewItem"; label = "Samples"; ObjectID = "5"; */
+"5.label" = "Samples";
+
+/* Class = "NSTabViewItem"; label = "Properties"; ObjectID = "6"; */
+"6.label" = "Properties";
+
+/* Class = "NSTableColumn"; headerCell.title = "Level"; ObjectID = "26"; */
+"26.headerCell.title" = "Level";
+
+/* Class = "NSTableColumn"; headerCell.title = "S/N"; ObjectID = "27"; */
+"27.headerCell.title" = "S/N";
+
+/* Class = "NSTableColumn"; headerCell.title = "Width"; ObjectID = "28"; */
+"28.headerCell.title" = "Width";
+
+/* Class = "NSTableColumn"; headerCell.title = "Noise"; ObjectID = "29"; */
+"29.headerCell.title" = "Noise";
+
+/* Class = "NSTableColumn"; headerCell.title = "Signal"; ObjectID = "30"; */
+"30.headerCell.title" = "Signal";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "31"; */
+"31.headerCell.title" = "Date";
+
+/* Class = "NSTableColumn"; headerCell.title = "C"; ObjectID = "32"; */
+"32.headerCell.title" = "C";
+
+/* Class = "NSTableColumn"; headerCell.title = "Freq"; ObjectID = "33"; */
+"33.headerCell.title" = "Freq";
+
+/* Class = "NSTableColumn"; headerCell.title = "#"; ObjectID = "34"; */
+"34.headerCell.title" = "#";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "35"; */
+"35.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "36"; */
+"36.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "37"; */
+"37.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "38"; */
+"38.title" = "Text Cell";
+
+/* Class = "NSDateFormatter"; ibShadowedDateFormat = "M/d – h:mm:ss a"; ObjectID = "39"; */
+"39.ibShadowedDateFormat" = "M/d – h:mm:ss a";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "44"; */
+"44.title" = "Text Cell";

@@ -1,0 +1,138 @@
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "3"; */
+"3.title" = "Preferences";
+
+/* Class = "NSTextFieldCell"; title = "User Interface"; ObjectID = "12"; */
+"12.title" = "User Interface";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "14"; */
+"14.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "11"; ObjectID = "15"; */
+"15.title" = "11";
+
+/* Class = "NSMenuItem"; title = "13"; ObjectID = "16"; */
+"16.title" = "13";
+
+/* Class = "NSMenuItem"; title = "15"; ObjectID = "17"; */
+"17.title" = "15";
+
+/* Class = "NSMenuItem"; title = "18"; ObjectID = "18"; */
+"18.title" = "18";
+
+/* Class = "NSTextFieldCell"; title = "Text Size:"; ObjectID = "20"; */
+"20.title" = "Text Size:";
+
+/* Class = "NSTextFieldCell"; title = "Example Text"; ObjectID = "22"; */
+"22.title" = "Example Text";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "24"; */
+"24.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Icon & Text"; ObjectID = "25"; */
+"25.title" = "Icon & Text";
+
+/* Class = "NSMenuItem"; title = "Icon Only"; ObjectID = "27"; */
+"27.title" = "Icon Only";
+
+/* Class = "NSTextFieldCell"; title = "Toolbar Style:"; ObjectID = "28"; */
+"28.title" = "Toolbar Style:";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "35"; */
+"35.title" = "10";
+
+/* Class = "NSMenuItem"; title = "12"; ObjectID = "36"; */
+"36.title" = "12";
+
+/* Class = "NSMenuItem"; title = "14"; ObjectID = "37"; */
+"37.title" = "14";
+
+/* Class = "NSMenuItem"; title = "16"; ObjectID = "38"; */
+"38.title" = "16";
+
+/* Class = "NSMenuItem"; title = "6"; ObjectID = "39"; */
+"39.title" = "6";
+
+/* Class = "NSMenuItem"; title = "Submit"; ObjectID = "2Cg-rI-OhL"; */
+"2Cg-rI-OhL.title" = "Submit";
+
+/* Class = "NSMenuItem"; title = "21"; ObjectID = "3id-LZ-9Ev"; */
+"3id-LZ-9Ev.title" = "21";
+
+/* Class = "NSButtonCell"; title = "Automatically Check for Updates Every: "; ObjectID = "6xb-ER-XMG"; */
+"6xb-ER-XMG.title" = "Automatically Check for Updates Every: ";
+
+/* Class = "NSTextFieldCell"; title = "Graph Lines:"; ObjectID = "9cQ-sd-zKh"; */
+"9cQ-sd-zKh.title" = "Graph Lines:";
+
+/* Class = "NSMenuItem"; title = "17"; ObjectID = "9yX-Ke-6DG"; */
+"9yX-Ke-6DG.title" = "17";
+
+/* Class = "NSMenuItem"; title = "9"; ObjectID = "AfQ-QP-Ks2"; */
+"AfQ-QP-Ks2.title" = "9";
+
+/* Class = "NSButtonCell"; title = "Automatically Update Resources on Startup"; ObjectID = "E2j-U7-M1d"; */
+"E2j-U7-M1d.title" = "Automatically Update Resources on Startup";
+
+/* Class = "NSTextFieldCell"; title = "Live Bundles"; ObjectID = "KDf-fr-Sdn"; */
+"KDf-fr-Sdn.title" = "Live Bundles";
+
+/* Class = "NSMenuItem"; title = "24"; ObjectID = "LAt-oY-t3j"; */
+"LAt-oY-t3j.title" = "24";
+
+/* Class = "NSMenuItem"; title = "Day"; ObjectID = "N87-M8-cgk"; */
+"N87-M8-cgk.title" = "Day";
+
+/* Class = "NSMenuItem"; title = "7"; ObjectID = "NbP-0a-Dkx"; */
+"NbP-0a-Dkx.title" = "7";
+
+/* Class = "NSMenuItem"; title = "19"; ObjectID = "Nm4-GC-eXN"; */
+"Nm4-GC-eXN.title" = "19";
+
+/* Class = "NSTextFieldCell"; title = "Problem Reporting"; ObjectID = "Rlb-8e-eTV"; */
+"Rlb-8e-eTV.title" = "Problem Reporting";
+
+/* Class = "NSTextFieldCell"; title = "iStumbler Updates"; ObjectID = "Xi1-ve-eU9"; */
+"Xi1-ve-eU9.title" = "iStumbler Updates";
+
+/* Class = "NSMenuItem"; title = "20"; ObjectID = "b27-xf-za6"; */
+"b27-xf-za6.title" = "20";
+
+/* Class = "NSTextFieldCell"; title = "When iStumbler has a problem:"; ObjectID = "dL2-pA-yCN"; */
+"dL2-pA-yCN.title" = "When iStumbler has a problem:";
+
+/* Class = "NSMenuItem"; title = "Week"; ObjectID = "fJY-iR-Ytu"; */
+"fJY-iR-Ytu.title" = "Week";
+
+/* Class = "NSMenuItem"; title = "Hairline"; ObjectID = "gJb-tS-uoU"; */
+"gJb-tS-uoU.title" = "Hairline";
+
+/* Class = "NSMenuItem"; title = "Boldline"; ObjectID = "gRV-4N-VKz"; */
+"gRV-4N-VKz.title" = "Boldline";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "gl2-f9-OUa"; */
+"gl2-f9-OUa.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "8"; ObjectID = "nr7-S4-Gzf"; */
+"nr7-S4-Gzf.title" = "8";
+
+/* Class = "NSMenuItem"; title = "Ingore"; ObjectID = "qdb-6q-BkK"; */
+"qdb-6q-BkK.title" = "Ingore";
+
+/* Class = "NSMenuItem"; title = "22"; ObjectID = "sQF-g1-flz"; */
+"sQF-g1-flz.title" = "22";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "tQk-59-DQY"; */
+"tQk-59-DQY.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "uIH-kc-f1U"; */
+"uIH-kc-f1U.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "23"; ObjectID = "vN1-9c-mYY"; */
+"vN1-9c-mYY.title" = "23";
+
+/* Class = "NSButtonCell"; title = "Automatically Download Updates"; ObjectID = "vSD-e4-E0t"; */
+"vSD-e4-E0t.title" = "Automatically Download Updates";
+
+/* Class = "NSMenuItem"; title = "Prompt"; ObjectID = "zuu-Fd-wI8"; */
+"zuu-Fd-wI8.title" = "Prompt";

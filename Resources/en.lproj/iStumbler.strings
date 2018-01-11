@@ -1,0 +1,195 @@
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"29.title" = "MainMenu";
+
+/* Class = "NSMenuItem"; title = "iStumbler"; ObjectID = "56"; */
+"56.title" = "iStumbler";
+
+/* Class = "NSMenu"; title = "iStumbler"; ObjectID = "57"; */
+"57.title" = "iStumbler";
+
+/* Class = "NSMenuItem"; title = "About iStumbler"; ObjectID = "58"; */
+"58.title" = "About iStumbler";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
+"103.title" = "Help";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "106"; */
+"106.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "iStumbler Help"; ObjectID = "111"; */
+"111.title" = "iStumbler Help";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "Preferences…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Hide iStumbler"; ObjectID = "134"; */
+"134.title" = "Hide iStumbler";
+
+/* Class = "NSMenuItem"; title = "Quit iStumbler"; ObjectID = "136"; */
+"136.title" = "Quit iStumbler";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; */
+"157.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "158"; */
+"158.title" = "Undo";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "160"; */
+"160.title" = "Cut";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; */
+"163.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "164"; */
+"164.title" = "Delete";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "169"; */
+"169.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "171"; */
+"171.title" = "Paste";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "172"; */
+"172.title" = "Select All";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
+"173.title" = "Redo";
+
+/* Class = "NSMenuItem"; title = "Plugin Help"; ObjectID = "211"; */
+"211.title" = "Plugin Help";
+
+/* Class = "NSMenuItem"; title = "Inspector"; ObjectID = "227"; */
+"227.title" = "Inspector";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "303"; */
+"303.title" = "Use Selection for Find";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "304"; */
+"304.title" = "Find…";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "305"; */
+"305.title" = "Find";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "306"; */
+"306.title" = "Find";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "307"; */
+"307.title" = "Find Next";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "308"; */
+"308.title" = "Jump to Selection";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "309"; */
+"309.title" = "Find Previous";
+
+/* Class = "NSMenuItem"; title = "Report a Bug"; ObjectID = "520"; */
+"520.title" = "Report a Bug";
+
+/* Class = "NSMenuItem"; title = "Web Site"; ObjectID = "536"; */
+"536.title" = "Web Site";
+
+/* Class = "NSMenuItem"; title = "iStumbler News"; ObjectID = "782"; */
+"782.title" = "iStumbler News";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "888"; */
+"888.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "889"; */
+"889.title" = "Close";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "890"; */
+"890.title" = "Print…";
+
+/* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "891"; */
+"891.title" = "Page Setup…";
+
+/* Class = "NSMenuItem"; title = "New Window"; ObjectID = "893"; */
+"893.title" = "New Window";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "898"; */
+"898.title" = "View";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "899"; */
+"899.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Wi-Fi"; ObjectID = "904"; */
+"904.title" = "Wi-Fi";
+
+/* Class = "NSMenuItem"; title = "Bluetooth"; ObjectID = "905"; */
+"905.title" = "Bluetooth";
+
+/* Class = "NSMenuItem"; title = "Bonjour"; ObjectID = "906"; */
+"906.title" = "Bonjour";
+
+/* Class = "NSMenuItem"; title = "Location"; ObjectID = "907"; */
+"907.title" = "Location";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "917"; */
+"917.title" = "Window";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "918"; */
+"918.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "919"; */
+"919.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "920"; */
+"920.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "922"; */
+"922.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "926"; */
+"926.title" = "Enter Full Screen";
+
+/* Class = "NSMenuItem"; title = "Bigger Text"; ObjectID = "5JU-9f-81r"; */
+"5JU-9f-81r.title" = "Bigger Text";
+
+/* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "80v-kD-sKe"; */
+"80v-kD-sKe.title" = "Check for Updates…";
+
+/* Class = "NSMenuItem"; title = "Plugin List"; ObjectID = "LiF-bB-Gmq"; */
+"LiF-bB-Gmq.title" = "Plugin List";
+
+/* Class = "NSMenuItem"; title = "Plugin"; ObjectID = "Mjn-ae-s4i"; */
+"Mjn-ae-s4i.title" = "Plugin";
+
+/* Class = "NSMenuItem"; title = "WiPry"; ObjectID = "OS2-Pd-QKt"; */
+"OS2-Pd-QKt.title" = "WiPry";
+
+/* Class = "NSMenuItem"; title = "Text Size"; ObjectID = "WLl-vo-Sa3"; */
+"WLl-vo-Sa3.title" = "Text Size";
+
+/* Class = "NSMenuItem"; title = "Smaller Text"; ObjectID = "XwO-YK-PGj"; */
+"XwO-YK-PGj.title" = "Smaller Text";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "g7D-CK-MUX"; */
+"g7D-CK-MUX.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Menu"; ObjectID = "itl-SV-KKN"; */
+"itl-SV-KKN.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Empty Cache…"; ObjectID = "piV-ZE-QIm"; */
+"piV-ZE-QIm.title" = "Empty Cache…";
+
+/* Class = "NSMenuItem"; title = "Channels"; ObjectID = "qgD-Ek-2kX"; */
+"qgD-Ek-2kX.title" = "Channels";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "sHd-bH-oXi"; */
+"sHd-bH-oXi.title" = "Menu";

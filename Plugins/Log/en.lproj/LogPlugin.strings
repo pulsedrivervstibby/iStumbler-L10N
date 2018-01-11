@@ -1,0 +1,30 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Event Name"; ObjectID = "39"; */
+"39.headerCell.title" = "Event Name";
+
+/* Class = "NSTableColumn"; headerCell.title = "Log Event"; ObjectID = "40"; */
+"40.headerCell.title" = "Log Event";
+
+/* Class = "NSTextFieldCell"; title = "~/Library/Logs/iStumbler/"; ObjectID = "75"; */
+"75.title" = "~/Library/Logs/iStumbler/";
+
+/* Class = "NSButtonCell"; title = "Select..."; ObjectID = "76"; */
+"76.title" = "Select...";
+
+/* Class = "NSButtonCell"; title = "Log All"; ObjectID = "77"; */
+"77.title" = "Log All";
+
+/* Class = "NSTextFieldCell"; title = "Logged Events"; ObjectID = "79"; */
+"79.title" = "Logged Events";
+
+/* Class = "NSTextFieldCell"; title = "Logging Directory"; ObjectID = "80"; */
+"80.title" = "Logging Directory";
+
+/* Class = "NSTextFieldCell"; title = "/Path/To/Current/Log/File.log"; ObjectID = "dZ0-U0-W2F"; */
+"dZ0-U0-W2F.title" = "/Path/To/Current/Log/File.log";
+
+/* Class = "NSButtonCell"; title = "Open…"; ObjectID = "sEB-qJ-8bu"; */
+"sEB-qJ-8bu.title" = "Open…";
+
+/* Class = "NSTextFieldCell"; title = "Log File"; ObjectID = "uET-u6-2bz"; */
+"uET-u6-2bz.title" = "Log File";
