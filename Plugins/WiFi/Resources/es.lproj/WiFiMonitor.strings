@@ -1,0 +1,12 @@
+
+/* Class = "NSWindow"; title = "Monitor"; ObjectID = "9"; */
+"9.title" = "Monitor";
+
+/* Class = "NSView"; ibShadowedToolTip = "signal strength histogram"; ObjectID = "11"; */
+"11.ibShadowedToolTip" = "signal strength histogram";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "monitor status"; ObjectID = "12"; */
+"12.ibShadowedToolTip" = "monitor status";
+
+/* Class = "NSTextFieldCell"; title = "network info"; ObjectID = "13"; */
+"13.title" = "network info";
