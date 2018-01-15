@@ -1,0 +1,45 @@
+
+/* Class = "NSToolbarItem"; label = "Input"; ObjectID = "9rU-pD-Awb"; */
+"9rU-pD-Awb.label" = "Input";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Input"; ObjectID = "9rU-pD-Awb"; */
+"9rU-pD-Awb.paletteLabel" = "Input";
+
+/* Class = "NSMenuItem"; title = "Options"; ObjectID = "INM-kP-pav"; */
+"INM-kP-pav.title" = "Options";
+
+/* Class = "NSMenuItem"; title = "Tools"; ObjectID = "JBY-cF-Td1"; */
+"JBY-cF-Td1.title" = "Tools";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JuF-QK-zUm"; */
+"JuF-QK-zUm.title" = "OtherViews";
+
+/* Class = "NSToolbarItem"; label = "Start"; ObjectID = "Kdb-2B-2DX"; */
+"Kdb-2B-2DX.label" = "Start";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Start"; ObjectID = "Kdb-2B-2DX"; */
+"Kdb-2B-2DX.paletteLabel" = "Start";
+
+/* Class = "NSWindow"; title = "iStumbler Tools"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "iStumbler Tools";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "RJS-KD-hAr"; */
+"RJS-KD-hAr.title" = "Start";
+
+/* Class = "NSTextFieldCell"; placeholderString = "hostname"; ObjectID = "TsB-Un-6wS"; */
+"TsB-Un-6wS.placeholderString" = "hostname";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "f5O-2S-20D"; */
+"f5O-2S-20D.title" = "OtherViews";
+
+/* Class = "NSToolbarItem"; label = "Options"; ObjectID = "ivt-Eq-YTc"; */
+"ivt-Eq-YTc.label" = "Options";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Options"; ObjectID = "ivt-Eq-YTc"; */
+"ivt-Eq-YTc.paletteLabel" = "Options";
+
+/* Class = "NSToolbarItem"; label = "Tools"; ObjectID = "lB1-px-2b5"; */
+"lB1-px-2b5.label" = "Tools";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Tools"; ObjectID = "lB1-px-2b5"; */
+"lB1-px-2b5.paletteLabel" = "Tools";
