@@ -1,0 +1,9 @@
+
+/* Class = "NSWindow"; title = "iStumbler"; ObjectID = "3"; */
+"3.title" = "iStumbler";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "729"; */
+"729.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "745"; */
+"745.title" = "Box";
