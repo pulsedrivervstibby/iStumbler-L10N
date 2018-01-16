@@ -72,7 +72,7 @@
 "AfQ-QP-Ks2.title" = "9";
 
 /* Class = "NSButtonCell"; title = "Automatically Update Resources on Startup"; ObjectID = "E2j-U7-M1d"; */
-"E2j-U7-M1d.title" = "Automatically Update Resources on Startup";/**/
+"E2j-U7-M1d.title" = "Actualizar recursos automáticamente al inicio";
 
 /* Class = "NSTextFieldCell"; title = "Live Bundles"; ObjectID = "KDf-fr-Sdn"; */
 "KDf-fr-Sdn.title" = "Paquetes activos";
@@ -90,7 +90,7 @@
 "Nm4-GC-eXN.title" = "19";
 
 /* Class = "NSTextFieldCell"; title = "Problem Reporting"; ObjectID = "Rlb-8e-eTV"; */
-"Rlb-8e-eTV.title" = "Problem Reporting";/**/
+"Rlb-8e-eTV.title" = "Notificación de problema";
 
 /* Class = "NSTextFieldCell"; title = "iStumbler Updates"; ObjectID = "Xi1-ve-eU9"; */
 "Xi1-ve-eU9.title" = "Actualizaciones de iStumbler";

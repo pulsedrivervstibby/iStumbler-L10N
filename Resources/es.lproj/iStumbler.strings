@@ -99,7 +99,7 @@
 "309.title" = "Buscar anterior";
 
 /* Class = "NSMenuItem"; title = "Report a Bug"; ObjectID = "520"; */
-"520.title" = "Report a Bug";/**/
+"520.title" = "Notificar error";
 
 /* Class = "NSMenuItem"; title = "Web Site"; ObjectID = "536"; */
 "536.title" = "Página web";
