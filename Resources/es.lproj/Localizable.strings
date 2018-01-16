@@ -1,0 +1,14 @@
+﻿/* Title of Window followed by Plugin Name which shows detailed information about a device */
+"Inspector" = "Inspector";
+
+/* Indication that IStumbler data sampling has been paused */
+"iStumbler Paused" = "iStumbler Paused";/**/
+
+/* Displays a message of how many(%i) seconds information is being retained */
+"Remembering for %i seconds" = "Remembering for %i seconds";/**/
+
+/* Indication of the frequency in seconds(%i) at which samples of data are taken */
+"Sampling every %i seconds" = "Sampling every %i seconds";/**/
+
+/* Translate to a fitting welcome greeting */
+"Welcome to iStumbler" = "Welcome to iStumbler";/**/

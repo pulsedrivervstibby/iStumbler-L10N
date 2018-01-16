@@ -1,0 +1,24 @@
+﻿/* No comment provided by engineer. */
+"128 bit key format" = "128 bit key format";
+
+/* No comment provided by engineer. */
+"40 bit key format" = "40 bit key format";
+
+/* AirPortToolbar option to join */
+"Monitor Network" = "Monitor Network";
+
+/* Monitor Window Title */
+"Monitor" = "Monitor";
+
+/* The Notification after clicking on a particular airport */
+"Selected %@" = "Selected %@";
+
+/* AirPortToolbar Signal Graph */
+"Signal Graph" = "Signal Graph";
+
+/* AirPortToolbar identifier of SSID */
+"SSID" = "SSID";
+
+/* */
+"wifi-scanning" = "Wi-Fi Scanning…";
+

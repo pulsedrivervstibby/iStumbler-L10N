@@ -1,0 +1,180 @@
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "69"; */
+"69.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Send File…"; ObjectID = "70"; */
+"70.title" = "Send File…";/**/
+
+/* Class = "NSMenuItem"; title = "Pair with Device…"; ObjectID = "71"; */
+"71.title" = "Pair with Device…";/**/
+
+/* Class = "NSMenuItem"; title = "Browse Device…"; ObjectID = "74"; */
+"74.title" = "Browse Device…";/**/
+
+/* Class = "NSMenuItem"; title = "Bluetooth Devices"; ObjectID = "75"; */
+"75.title" = "Bluetooth Devices";/**/
+
+/* Class = "NSTableColumn"; headerCell.title = "Device Name"; ObjectID = "82"; */
+"82.headerCell.title" = "Nombre de dispositivo";
+
+/* Class = "NSTableColumn"; headerCell.title = "Device Type"; ObjectID = "84"; */
+"84.headerCell.title" = "Tipo de dispositivo";
+
+/* Class = "NSTableColumn"; headerCell.title = "MAC Address"; ObjectID = "86"; */
+"86.headerCell.title" = "Dirección MAC";
+
+/* Class = "NSTableColumn"; headerCell.title = "Linked"; ObjectID = "88"; */
+"88.headerCell.title" = "Enlazado";
+
+/* Class = "NSTableColumn"; headerCell.title = "Favorite"; ObjectID = "89"; */
+"89.headerCell.title" = "Favorito";
+
+/* Class = "NSTableColumn"; headerCell.title = "Last Seen"; ObjectID = "91"; */
+"91.headerCell.title" = "Last Seen";/**/
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "99"; */
+"99.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Favorite Devices"; ObjectID = "104"; */
+"104.title" = "Favorite Devices";/**/
+
+/* Class = "NSMenuItem"; title = "Recent Devices"; ObjectID = "105"; */
+"105.title" = "Recent Devices";/**/
+
+/* Class = "NSMenuItem"; title = "Paired Devices"; ObjectID = "106"; */
+"106.title" = "Paired Devices";/**/
+
+/* Class = "NSMenuItem"; title = "Connected Devices"; ObjectID = "115"; */
+"115.title" = "Connected Devices";/**/
+
+/* Class = "NSTabViewItem"; label = "Properties"; ObjectID = "122"; */
+"122.label" = "Properties";/**/
+
+/* Class = "NSTabViewItem"; label = "Samples"; ObjectID = "124"; */
+"124.label" = "Samples";/**/
+
+/* Class = "NSTableColumn"; headerCell.title = "#"; ObjectID = "133"; */
+"133.headerCell.title" = "#";
+
+/* Class = "NSMenuItem"; title = "Set up Device…"; ObjectID = "151"; */
+"151.title" = "Set up Device…";/**/
+
+/* Class = "NSMenuItem"; title = "Bluetooth Power"; ObjectID = "153"; */
+"153.title" = "Bluetooth Power";/**/
+
+/* Class = "NSTableColumn"; headerCell.title = "Vendor"; ObjectID = "192"; */
+"192.headerCell.title" = "Proveedor";
+
+/* Class = "NSMenuItem"; title = "Discoverable Devices"; ObjectID = "193"; */
+"193.title" = "Discoverable Devices";/**/
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "194"; */
+"194.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Pair"; ObjectID = "195"; */
+"195.title" = "Enlazar";
+
+/* Class = "NSMenuItem"; title = "Send File"; ObjectID = "196"; */
+"196.title" = "Enviar archivo";
+
+/* Class = "NSMenuItem"; title = "Browse Files"; ObjectID = "197"; */
+"197.title" = "Explorar archivos";
+
+/* Class = "NSTextFieldCell"; title = "Bluetooth Scanner"; ObjectID = "100101"; */
+"100101.title" = "Bluetooth Scanner";/**/
+
+/* Class = "NSTextFieldCell"; title = "Scan For:"; ObjectID = "100103"; */
+"100103.title" = "Scan For:";/**/
+
+/* Class = "NSTableColumn"; headerCell.title = "Level"; ObjectID = "300163"; */
+"300163.headerCell.title" = "Nivel";
+
+/* Class = "NSTableColumn"; headerCell.title = "Signal"; ObjectID = "300165"; */
+"300165.headerCell.title" = "Señal";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "300166"; */
+"300166.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Signal"; ObjectID = "300180"; */
+"300180.headerCell.title" = "Señal";
+
+/* Class = "NSTableColumn"; headerCell.title = "Level"; ObjectID = "300181"; */
+"300181.headerCell.title" = "Nivel";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "300189"; */
+"300189.title" = "0";
+
+/* Class = "NSTableColumn"; headerCell.title = "S/N History"; ObjectID = "300194"; */
+"300194.headerCell.title" = "Historial S/N";
+
+/* Class = "NSTableColumn"; headerCell.title = "S/N"; ObjectID = "300197"; */
+"300197.headerCell.title" = "S/N";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "300198"; */
+"300198.title" = "Text Cell";
+
+/* Class = "NSView"; ibShadowedToolTip = "signal to noise histogram"; ObjectID = "6db-Bs-UaK"; */
+"6db-Bs-UaK.ibShadowedToolTip" = "Histograma señal/ruido";
+
+/* Class = "NSToolbarItem"; label = "Signal and Noise Histogram"; ObjectID = "DfU-SA-MjC"; */
+"DfU-SA-MjC.label" = "Histograma de señal y ruido";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Signal and Noise Histogram"; ObjectID = "DfU-SA-MjC"; */
+"DfU-SA-MjC.paletteLabel" = "Histograma de señal y ruido";
+
+/* Class = "NSTableColumn"; headerCell.title = "UUID"; ObjectID = "Ekc-CK-64W"; */
+"Ekc-CK-64W.headerCell.title" = "UUID";
+
+/* Class = "NSTableColumn"; headerCell.title = "S/N"; ObjectID = "FaB-WI-5CE"; */
+"FaB-WI-5CE.headerCell.title" = "S/N";
+
+/* Class = "NSToolbarItem"; label = "Bluetooth Tools"; ObjectID = "IoL-eO-wty"; */
+"IoL-eO-wty.label" = "Herramientas Bluetooth";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Bluetooth Tools"; ObjectID = "IoL-eO-wty"; */
+"IoL-eO-wty.paletteLabel" = "Herramientas Bluetooth";
+
+/* Class = "NSTextFieldCell"; title = "01234567890123456789012345678901"; ObjectID = "LEb-kY-GNF"; */
+"LEb-kY-GNF.title" = "01234567890123456789012345678901";
+
+/* Class = "NSTableColumn"; headerCell.title = "Width"; ObjectID = "Xq6-OT-y2e"; */
+"Xq6-OT-y2e.headerCell.title" = "Width";/**/
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "dif-EJ-WcA"; */
+"dif-EJ-WcA.headerCell.title" = "Fecha";
+
+/* Class = "NSDateFormatter"; ibShadowedDateFormat = "M/d – h:mm:ss a"; ObjectID = "eio-Hh-PR1"; */
+"eio-Hh-PR1.ibShadowedDateFormat" = "M/d – h:mm:ss a";/**/
+
+/* Class = "NSToolbarItem"; label = "Kind"; ObjectID = "gcT-MU-DpJ"; */
+"gcT-MU-DpJ.label" = "Tipo";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Kind"; ObjectID = "gcT-MU-DpJ"; */
+"gcT-MU-DpJ.paletteLabel" = "Tipo";
+
+/* Class = "NSSegmentedCell"; jMC-Fy-X8e.ibShadowedToolTips[0] = "Setup"; ObjectID = "jMC-Fy-X8e"; */
+"jMC-Fy-X8e.ibShadowedToolTips[0]" = "Configurar";
+
+/* Class = "NSSegmentedCell"; jMC-Fy-X8e.ibShadowedToolTips[1] = "Pair"; ObjectID = "jMC-Fy-X8e"; */
+"jMC-Fy-X8e.ibShadowedToolTips[1]" = "Enlazar";
+
+/* Class = "NSSegmentedCell"; jMC-Fy-X8e.ibShadowedToolTips[2] = "Browse"; ObjectID = "jMC-Fy-X8e"; */
+"jMC-Fy-X8e.ibShadowedToolTips[2]" = "Explorar";
+
+/* Class = "NSSegmentedCell"; jMC-Fy-X8e.ibShadowedToolTips[3] = "Send"; ObjectID = "jMC-Fy-X8e"; */
+"jMC-Fy-X8e.ibShadowedToolTips[3]" = "Enviar";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uBl-DI-sBH"; */
+"uBl-DI-sBH.title" = "Text Cell";
+
+/* Class = "NSToolbarItem"; label = "Info"; ObjectID = "xf5-Di-Ih6"; */
+"xf5-Di-Ih6.label" = "Información";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Info"; ObjectID = "xf5-Di-Ih6"; */
+"xf5-Di-Ih6.paletteLabel" = "Información";
+
+/* Class = "NSToolbarItem"; label = "Device Name"; ObjectID = "zUJ-hd-RPh"; */
+"zUJ-hd-RPh.label" = "Nombre de dispositivo";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Device Name"; ObjectID = "zUJ-hd-RPh"; */
+"zUJ-hd-RPh.paletteLabel" = "Nombre de dispositivo";

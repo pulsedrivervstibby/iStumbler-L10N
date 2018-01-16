@@ -1,0 +1,144 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "select and display network with the best signal"; ObjectID = "367"; */
+"367.ibShadowedToolTip" = "Selecciona y muestra la red con la mejor señal";
+
+/* Class = "NSButton"; ibShadowedToolTip = "keep monitor window visible"; ObjectID = "374"; */
+"374.ibShadowedToolTip" = "Mantiene visible la ventana de monitor";
+
+/* Class = "NSTableColumn"; headerCell.title = "Location"; ObjectID = "414"; */
+"414.headerCell.title" = "Ubicación";
+
+/* Class = "NSTableColumn"; headerCell.title = "Last Seen"; ObjectID = "415"; */
+"415.headerCell.title" = "última vez visto";
+
+/* Class = "NSTableColumn"; headerCell.title = "SSID (Network Name)"; ObjectID = "416"; */
+"416.headerCell.title" = "SSID (Nombre de red)";
+
+/* Class = "NSTableColumn"; headerCell.title = "BSSID (MAC Address)"; ObjectID = "419"; */
+"419.headerCell.title" = "BSSID (Dirección MAC)";
+
+/* Class = "NSTableColumn"; headerCell.title = "Noise"; ObjectID = "420"; */
+"420.headerCell.title" = "Ruido";
+
+/* Class = "NSTableColumn"; headerCell.title = "S/N History"; ObjectID = "422"; */
+"422.headerCell.title" = "Historial S/N";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frequency"; ObjectID = "426"; */
+"426.headerCell.title" = "Frecuencia";
+
+/* Class = "NSTableColumn"; headerCell.title = "Channel"; ObjectID = "428"; */
+"428.headerCell.title" = "Canal";
+
+/* Class = "NSTableColumn"; headerCell.title = "Security"; ObjectID = "430"; */
+"430.headerCell.title" = "Seguridad";
+
+/* Class = "NSTableColumn"; headerCell.title = "Vendor"; ObjectID = "431"; */
+"431.headerCell.title" = "Proveedor";
+
+/* Class = "NSButtonCell"; title = "Auto-Select Best Network"; ObjectID = "100367"; */
+"100367.title" = "Auto-seleccionar mejor red";
+
+/* Class = "NSTextFieldCell"; title = "Selecting Networks"; ObjectID = "100368"; */
+"100368.title" = "Selección de redes";
+
+/* Class = "NSButtonCell"; title = "Keep on Top"; ObjectID = "100374"; */
+"100374.title" = "Mantener por encima";
+
+/* Class = "NSTextFieldCell"; title = "Connection Monitors"; ObjectID = "100378"; */
+"100378.title" = "Monitor de conexiones";
+
+/* Class = "NSTextFieldCell"; title = "When no network is selected:"; ObjectID = "100400"; */
+"100400.title" = "Cuando ninguna red está seleccionada:";
+
+/* Class = "NSTextFieldCell"; title = "The WiFi plugin can automatically select the best network each time it samples."; ObjectID = "100402"; */
+"100402.title" = "El plugin WiFi puede seleccionar automáticamente la mejor red cada vez que muestrea.";
+
+/* Class = "NSTextFieldCell"; title = "Thursday, April 1, 1976 12:00:00 PM Pacific Standard Time"; ObjectID = "100415"; */
+"100415.title" = "Thursday, April 1, 1976 12:00:00 PM Pacific Standard Time";/**/
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "100416"; */
+"100416.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = " dBm123"; ObjectID = "100420"; */
+"100420.title" = " dBm123";/**/
+
+/* Class = "NSTextFieldCell"; title = "123"; ObjectID = "100428"; */
+"100428.title" = "123";/**/
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "100430"; */
+"100430.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "100431"; */
+"100431.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Signal"; ObjectID = "300413"; */
+"300413.headerCell.title" = "Señal";
+
+/* Class = "NSTextFieldCell"; title = " dBm123"; ObjectID = "300414"; */
+"300414.title" = " dBm123";/**/
+
+/* Class = "NSTableColumn"; headerCell.title = "Protocol"; ObjectID = "300419"; */
+"300419.headerCell.title" = "Protocolo";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "300420"; */
+"300420.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Width"; ObjectID = "300514"; */
+"300514.headerCell.title" = "Banda";
+
+/* Class = "NSTextFieldCell"; title = " MHz123"; ObjectID = "300515"; */
+"300515.title" = " MHz123";/**/
+
+/* Class = "NSTableColumn"; headerCell.title = "S/N"; ObjectID = "300522"; */
+"300522.headerCell.title" = "S/N";
+
+/* Class = "NSTextFieldCell"; title = " dB123"; ObjectID = "300523"; */
+"300523.title" = " dB123";/**/
+
+/* Class = "NSTableColumn"; headerCell.title = "Level"; ObjectID = "300540"; */
+"300540.headerCell.title" = "Nivel";
+
+/* Class = "NSTableColumn"; headerCell.title = "Country Code"; ObjectID = "3I6-gW-rtR"; */
+"3I6-gW-rtR.headerCell.title" = "Código de país";
+
+/* Class = "NSTableColumn"; headerCell.title = "Est. Dist."; ObjectID = "AYg-n5-Y44"; */
+"AYg-n5-Y44.headerCell.title" = "Dist. est.";
+
+/* Class = "NSToolbarItem"; label = "Network Name"; ObjectID = "D4M-zP-xco"; */
+"D4M-zP-xco.label" = "Nombre de red";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Network Name"; ObjectID = "D4M-zP-xco"; */
+"D4M-zP-xco.paletteLabel" = "Nombre de red";
+
+/* Class = "NSTextFieldCell"; title = "Double-click on a network in the list to open a monitor. If enabled, monitors will float above all other windows."; ObjectID = "Kv7-JO-1rw"; */
+"Kv7-JO-1rw.title" = "Haga doble clic en una red de la lista para abrir un monitor. Si está activado, los monitores flotarán sobre todas las ventanas.";
+
+/* Class = "NSToolbarItem"; label = "Signal and Noise Histogram"; ObjectID = "KxX-JO-q7g"; */
+"KxX-JO-q7g.label" = "Histograma de señal y ruido";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Signal and Noise Histogram"; ObjectID = "KxX-JO-q7g"; */
+"KxX-JO-q7g.paletteLabel" = "Histograma de señal y ruido";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "hTR-JI-Odl"; */
+"hTR-JI-Odl.title" = "Label";/**/
+
+/* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "jlL-xT-SSj"; */
+"jlL-xT-SSj.headerCell.title" = "Banda";
+
+/* Class = "NSTableColumn"; headerCell.title = "Regulations"; ObjectID = "mnJ-M2-fhQ"; */
+"mnJ-M2-fhQ.headerCell.title" = "Normativas";
+
+/* Class = "NSToolbarItem"; label = "Security"; ObjectID = "uEa-Lb-i0a"; */
+"uEa-Lb-i0a.label" = "Seguridad";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Security"; ObjectID = "uEa-Lb-i0a"; */
+"uEa-Lb-i0a.paletteLabel" = "Seguridad";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uMe-Q6-Tlm"; */
+"uMe-Q6-Tlm.title" = "Text Cell";
+
+/* Class = "NSToolbarItem"; label = "Info"; ObjectID = "vU4-Dd-cjw"; */
+"vU4-Dd-cjw.label" = "Información";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Info"; ObjectID = "vU4-Dd-cjw"; */
+"vU4-Dd-cjw.paletteLabel" = "Información";
