@@ -1,24 +1,24 @@
 
 /* Class = "NSToolbarItem"; label = "Status"; ObjectID = "NPX-Tg-SQx"; */
-"NPX-Tg-SQx.label" = "Status";
+"NPX-Tg-SQx.label" = "Estado";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Status"; ObjectID = "NPX-Tg-SQx"; */
-"NPX-Tg-SQx.paletteLabel" = "Status";
+"NPX-Tg-SQx.paletteLabel" = "Estado";
 
 /* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "SEC-Ye-tbh"; */
-"SEC-Ye-tbh.title" = "Status";
+"SEC-Ye-tbh.title" = "Status";/**/
 
 /* Class = "NSToolbarItem"; label = "Frequency Band"; ObjectID = "dxn-yV-b4E"; */
-"dxn-yV-b4E.label" = "Frequency Band";
+"dxn-yV-b4E.label" = "Banda de frecuencia";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Frequency Band"; ObjectID = "dxn-yV-b4E"; */
-"dxn-yV-b4E.paletteLabel" = "Frequency Band";
+"dxn-yV-b4E.paletteLabel" = "Banda de frecuencia";
 
 /* Class = "NSToolbarItem"; label = "Info"; ObjectID = "p1R-9h-fQY"; */
-"p1R-9h-fQY.label" = "Info";
+"p1R-9h-fQY.label" = "Información";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Info"; ObjectID = "p1R-9h-fQY"; */
-"p1R-9h-fQY.paletteLabel" = "Info";
+"p1R-9h-fQY.paletteLabel" = "Información";
 
 /* Class = "NSSegmentedCell"; ye4-Sj-BSr.ibShadowedLabels[0] = "2.4 GHz"; ObjectID = "ye4-Sj-BSr"; */
 "ye4-Sj-BSr.ibShadowedLabels[0]" = "2.4 GHz";
