@@ -1,30 +1,30 @@
 
 /* Class = "NSToolbarItem"; label = "Select View"; ObjectID = "41"; */
-"41.label" = "Select View";/**/
+"41.label" = "Seleccionar vista";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Select View"; ObjectID = "41"; */
-"41.paletteLabel" = "Select View";/**/
+"41.paletteLabel" = "Seleccionar vista";
 
 /* Class = "NSBox"; title = "Grid"; ObjectID = "8I6-YP-4Hd"; */
-"8I6-YP-4Hd.title" = "Grid";
+"8I6-YP-4Hd.title" = "Grid";/**/
 
 /* Class = "NSTabViewItem"; label = "Grid"; ObjectID = "Eya-fz-n4i"; */
-"Eya-fz-n4i.label" = "Grid";
+"Eya-fz-n4i.label" = "Grid";/**/
 
 /* Class = "NSSegmentedCell"; MIR-H8-5N1.ibShadowedToolTips[0] = "Ratings"; ObjectID = "MIR-H8-5N1"; */
-"MIR-H8-5N1.ibShadowedToolTips[0]" = "Ratings";/**/
+"MIR-H8-5N1.ibShadowedToolTips[0]" = "Calificaciones";
 
 /* Class = "NSSegmentedCell"; MIR-H8-5N1.ibShadowedToolTips[1] = "Regulations"; ObjectID = "MIR-H8-5N1"; */
-"MIR-H8-5N1.ibShadowedToolTips[1]" = "Regulations";/**/
+"MIR-H8-5N1.ibShadowedToolTips[1]" = "Normativas";
 
 /* Class = "NSSegmentedCell"; MIR-H8-5N1.ibShadowedToolTips[2] = "Scans"; ObjectID = "MIR-H8-5N1"; */
-"MIR-H8-5N1.ibShadowedToolTips[2]" = "Scans";/**/
+"MIR-H8-5N1.ibShadowedToolTips[2]" = "Búsquedas";
 
 /* Class = "NSToolbarItem"; label = "Info"; ObjectID = "WKj-Wc-Lrl"; */
-"WKj-Wc-Lrl.label" = "Info";/**/
+"WKj-Wc-Lrl.label" = "Información";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Info"; ObjectID = "WKj-Wc-Lrl"; */
-"WKj-Wc-Lrl.paletteLabel" = "Info";/**/
+"WKj-Wc-Lrl.paletteLabel" = "Información";
 
 /* Class = "NSTabViewItem"; label = "Table"; ObjectID = "asA-ZS-oVF"; */
 "asA-ZS-oVF.label" = "Table";/**/
@@ -39,4 +39,4 @@
 "nvE-cd-WBg.title" = "Text Cell";
 
 /* Class = "NSTableColumn"; headerCell.title = "Scan"; ObjectID = "qNG-09-OSI"; */
-"qNG-09-OSI.headerCell.title" = "Scan";/**/
+"qNG-09-OSI.headerCell.title" = "Búsqueda";
