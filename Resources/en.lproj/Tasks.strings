@@ -1,9 +1,0 @@
-
-/* Class = "NSWindow"; title = "Tasks"; ObjectID = "3"; */
-"3.title" = "Tasks";
-
-/* Class = "NSTextFieldCell"; placeholderString = "Task Name"; ObjectID = "16"; */
-"16.placeholderString" = "Task Name";
-
-/* Class = "NSTextFieldCell"; placeholderString = "Task Description"; ObjectID = "18"; */
-"18.placeholderString" = "Task Description";
