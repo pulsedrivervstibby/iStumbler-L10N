@@ -3,10 +3,10 @@
 "9.title" = "Monitor";
 
 /* Class = "NSView"; ibShadowedToolTip = "signal strength histogram"; ObjectID = "11"; */
-"11.ibShadowedToolTip" = "signal strength histogram";
+"11.ibShadowedToolTip" = "Histograma de intensidad de señal";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "monitor status"; ObjectID = "12"; */
-"12.ibShadowedToolTip" = "monitor status";
+"12.ibShadowedToolTip" = "Monitor de estado";
 
 /* Class = "NSTextFieldCell"; title = "network info"; ObjectID = "13"; */
 "13.title" = "network info";

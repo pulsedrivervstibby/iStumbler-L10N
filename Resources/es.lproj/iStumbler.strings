@@ -12,13 +12,13 @@
 "58.title" = "Acerca de iStumbler";
 
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
-"83.title" = "Archivo";
+"83.title" = "File";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
-"103.title" = "Ayuda";
+"103.title" = "Help";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "106"; */
-"106.title" = "Help";
+"106.title" = "Ayuda";
 
 /* Class = "NSMenuItem"; title = "iStumbler Help"; ObjectID = "111"; */
 "111.title" = "Ayuda de iStumbler";
@@ -54,13 +54,13 @@
 "160.title" = "Cortar";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; */
-"163.title" = "Edición";
+"163.title" = "Edit";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "164"; */
 "164.title" = "Eliminar";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "169"; */
-"169.title" = "Edit";
+"169.title" = "Edición";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "171"; */
 "171.title" = "Pegar";
@@ -108,7 +108,7 @@
 "782.title" = "Noticias de iStumbler";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "888"; */
-"888.title" = "File";
+"888.title" = "Archivo";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "889"; */
 "889.title" = "Cerrar";
@@ -123,10 +123,10 @@
 "893.title" = "Nueva ventana";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "898"; */
-"898.title" = "Visualización";
+"898.title" = "View";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "899"; */
-"899.title" = "View";
+"899.title" = "Visualización";
 
 /* Class = "NSMenuItem"; title = "Wi-Fi"; ObjectID = "904"; */
 "904.title" = "Wi-Fi";
@@ -141,10 +141,10 @@
 "907.title" = "Location";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "917"; */
-"917.title" = "Ventana";
+"917.title" = "Window";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "918"; */
-"918.title" = "Window";
+"918.title" = "Ventana";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "919"; */
 "919.title" = "Minimizar";
@@ -180,10 +180,10 @@
 "XwO-YK-PGj.title" = "Texto más pequeño";
 
 /* Class = "NSMenuItem"; title = "Item"; ObjectID = "g7D-CK-MUX"; */
-"g7D-CK-MUX.title" = "Item";/**/
+"g7D-CK-MUX.title" = "Item";
 
 /* Class = "NSMenuItem"; title = "Menu"; ObjectID = "itl-SV-KKN"; */
-"itl-SV-KKN.title" = "Menu";/**/
+"itl-SV-KKN.title" = "Menu";
 
 /* Class = "NSMenuItem"; title = "Empty Cache…"; ObjectID = "piV-ZE-QIm"; */
 "piV-ZE-QIm.title" = "Vaciar caché…";
@@ -192,4 +192,4 @@
 "qgD-Ek-2kX.title" = "Channels";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "sHd-bH-oXi"; */
-"sHd-bH-oXi.title" = "Menu";/**/
+"sHd-bH-oXi.title" = "Menu";

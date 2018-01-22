@@ -9,7 +9,7 @@
 "414.headerCell.title" = "Ubicación";
 
 /* Class = "NSTableColumn"; headerCell.title = "Last Seen"; ObjectID = "415"; */
-"415.headerCell.title" = "última vez visto";
+"415.headerCell.title" = "Última vez detectada";
 
 /* Class = "NSTableColumn"; headerCell.title = "SSID (Network Name)"; ObjectID = "416"; */
 "416.headerCell.title" = "SSID (Nombre de red)";
@@ -54,16 +54,16 @@
 "100402.title" = "El plugin WiFi puede seleccionar automáticamente la mejor red cada vez que muestrea.";
 
 /* Class = "NSTextFieldCell"; title = "Thursday, April 1, 1976 12:00:00 PM Pacific Standard Time"; ObjectID = "100415"; */
-"100415.title" = "Thursday, April 1, 1976 12:00:00 PM Pacific Standard Time";/**/
+"100415.title" = "Thursday, April 1, 1976 12:00:00 PM Pacific Standard Time";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "100416"; */
 "100416.title" = "Text Cell";
 
 /* Class = "NSTextFieldCell"; title = " dBm123"; ObjectID = "100420"; */
-"100420.title" = " dBm123";/**/
+"100420.title" = " dBm123";
 
 /* Class = "NSTextFieldCell"; title = "123"; ObjectID = "100428"; */
-"100428.title" = "123";/**/
+"100428.title" = "123";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "100430"; */
 "100430.title" = "Text Cell";
@@ -75,7 +75,7 @@
 "300413.headerCell.title" = "Señal";
 
 /* Class = "NSTextFieldCell"; title = " dBm123"; ObjectID = "300414"; */
-"300414.title" = " dBm123";/**/
+"300414.title" = " dBm123";
 
 /* Class = "NSTableColumn"; headerCell.title = "Protocol"; ObjectID = "300419"; */
 "300419.headerCell.title" = "Protocolo";
@@ -84,16 +84,16 @@
 "300420.title" = "Text Cell";
 
 /* Class = "NSTableColumn"; headerCell.title = "Width"; ObjectID = "300514"; */
-"300514.headerCell.title" = "Banda";
+"300514.headerCell.title" = "Ancho";
 
 /* Class = "NSTextFieldCell"; title = " MHz123"; ObjectID = "300515"; */
-"300515.title" = " MHz123";/**/
+"300515.title" = " MHz123";
 
 /* Class = "NSTableColumn"; headerCell.title = "S/N"; ObjectID = "300522"; */
 "300522.headerCell.title" = "S/N";
 
 /* Class = "NSTextFieldCell"; title = " dB123"; ObjectID = "300523"; */
-"300523.title" = " dB123";/**/
+"300523.title" = " dB123";
 
 /* Class = "NSTableColumn"; headerCell.title = "Level"; ObjectID = "300540"; */
 "300540.headerCell.title" = "Nivel";
@@ -120,7 +120,7 @@
 "KxX-JO-q7g.paletteLabel" = "Histograma de señal y ruido";
 
 /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "hTR-JI-Odl"; */
-"hTR-JI-Odl.title" = "Label";/**/
+"hTR-JI-Odl.title" = "Label";
 
 /* Class = "NSTableColumn"; headerCell.title = "Band"; ObjectID = "jlL-xT-SSj"; */
 "jlL-xT-SSj.headerCell.title" = "Banda";
