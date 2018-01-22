@@ -1,4 +1,4 @@
-﻿/* Title of Window followed by Plugin Name which shows detailed information about a device */
+/* Title of Window followed by Plugin Name which shows detailed information about a device */
 "Inspector" = "Inspector";
 
 /* Indication that IStumbler data sampling has been paused */
@@ -12,3 +12,36 @@
 
 /* Translate to a fitting welcome greeting */
 "Welcome to iStumbler" = "Welcome to iStumbler";/**/
+
+/* alt: sweep, search, look */
+"scan" = "búsqueda";
+
+/* one minute */
+"minute" = "minuto";
+
+/* five minutes */
+"five minutes" = "cinco minutos";
+
+/* "fiftreen minutes, a quarter hour" */
+"fifteen minutes" = "quince minutos";
+
+/* "thirty minutes, one half hour" */
+"half hour" = "media hora";
+
+/* "sixtey minutes, one hour" */
+"hour" = "hora";
+
+/* "twenty four hours, one day" */
+"day" = "día";
+
+/* "seven days, one week" */
+"week" = "semana";
+
+/* "one month" */
+"month" = "mes";
+
+/* "a long time" */
+"forever" = "forever";/**/
+
+/* "Showing all results, showing every item" */
+"Showing all results" = "Mostrando todos los resultados";
