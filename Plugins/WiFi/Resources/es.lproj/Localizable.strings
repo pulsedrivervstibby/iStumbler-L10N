@@ -29,7 +29,7 @@
 "from" = "desde";
 
 /* No comment provided by engineer. */
-"information elements" = "information elements";/**/
+"information elements" = "elementos de información";
 
 /* No comment provided by engineer. */
 "last seen" = "última vez detectada";
@@ -41,7 +41,7 @@
 "name" = "nombre";
 
 /* No comment provided by engineer. */
-"No Network Selected" = "No hay red seleccionada";/**/
+"No Network Selected" = "No hay red seleccionada";
 
 /* No comment provided by engineer. */
 "precision" = "precision";/**/
@@ -71,7 +71,7 @@
 "Wi-Fi Network Monitor" = "Wi-Fi Network Monitor";/**/
 
 /* No comment provided by engineer. */
-"Wi-Fi Networks" = "Wi-Fi Networks";/**/
+"Wi-Fi Networks" = "redes Wi-Fi";
 
 /* No comment provided by engineer. */
 "Wi-Fi Scan" = "Wi-Fi Scan";/**/
