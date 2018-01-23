@@ -1,47 +1,69 @@
-/* Title of Window followed by Plugin Name which shows detailed information about a device */
-"Inspector" = "Inspector";
+/* No comment provided by engineer. */
+"Are you sure you want to empty the cache?" = "Are you sure you want to empty the cache?";
 
-/* Indication that IStumbler data sampling has been paused */
-"iStumbler Paused" = "iStumbler Paused";
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
 
-/* Displays a message of how many(%i) seconds information is being retained */
-"Remembering for %i seconds" = "Remembering for %i seconds";
+/* twenty four hours, one day */
+"day" = "day";
 
-/* Indication of the frequency in seconds(%i) at which samples of data are taken */
-"Sampling every %i seconds" = "Sampling every %i seconds";
+/* No comment provided by engineer. */
+"Empty" = "Empty";
 
-/* Translate to a fitting welcome greeting */
-"Welcome to iStumbler" = "Welcome to iStumbler";
-
-/* alt: sweep, search, look */
-"scan" = "scan";
-
-/* one minute */
-"minute" = "minute";
+/* fiftreen minutes, a quarter hour */
+"fifteen minutes" = "fifteen minutes";
 
 /* five minutes */
 "five minutes" = "five minutes";
 
-/* "fiftreen minutes, a quarter hour" */
-"fifteen minutes" = "fifteen minutes";
-
-/* "thirty minutes, one half hour" */
-"half hour" = "half hour";
-
-/* "sixtey minutes, one hour" */
-"hour" = "hour";
-
-/* "twenty four hours, one day" */
-"day" = "day";
-
-/* "seven days, one week" */
-"week" = "week";
-
-/* "one month" */
-"month" = "month";
-
-/* "a long time" */
+/* a long time */
 "forever" = "forever";
 
-/* "Showing all results, showing every item" */
+/* thirty minutes, one half hour */
+"half hour" = "half hour";
+
+/* sixtey minutes, one hour */
+"hour" = "hour";
+
+/* Title of Window followed by Plugin Name which shows detailed information about a device */
+"Inspector" = "Inspector";
+
+/* No comment provided by engineer. */
+"iStumbler" = "iStumbler";
+
+/* one minute */
+"minute" = "minute";
+
+/* one month */
+"month" = "month";
+
+/* No comment provided by engineer. */
+"Reset" = "Reset";
+
+/* No comment provided by engineer. */
+"Reset iStumbler Preferences?" = "Reset iStumbler Preferences?";
+
+/* alt: sweep, search, look */
+"scan" = "scan";
+
+/* Showing all results, showing every item */
 "Showing all results" = "Showing all results";
+
+/* No comment provided by engineer. */
+"Showing results for the last" = "Showing results for the last";
+
+/* No comment provided by engineer. */
+"The contents of your RadioStore caches will be moved to the trash and iStumbler will restart. There is no Undo for this operation." = "The contents of your RadioStore caches will be moved to the trash and iStumbler will restart. There is no Undo for this operation.";
+
+/* No comment provided by engineer. */
+"We all need a little reset sometimes. iStumbler can reset just window positions or all preferences." = "We all need a little reset sometimes. iStumbler can reset just window positions or all preferences.";
+
+/* seven days, one week */
+"week" = "week";
+
+/* Welcome to iStumbler */
+"Welcome to iStumbler" = "Welcome to iStumbler";
+
+/* No comment provided by engineer. */
+"Windows" = "Windows";
+
