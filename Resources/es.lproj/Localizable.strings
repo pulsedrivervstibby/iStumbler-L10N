@@ -38,10 +38,10 @@
 "month" = "mes";
 
 /* No comment provided by engineer. */
-"Reset" = "Reset";/**/
+"Reset" = "Restablecer";
 
 /* No comment provided by engineer. */
-"Reset iStumbler Preferences?" = "Reset iStumbler Preferences?";/**/
+"Reset iStumbler Preferences?" = "¿Restablecer preferencias de iStumbler?";
 
 /* alt: sweep, search, look */
 "scan" = "búsqueda";
@@ -56,7 +56,7 @@
 "The contents of your RadioStore caches will be moved to the trash and iStumbler will restart. There is no Undo for this operation." = "El contenido de sus cachés de RadioStore se moverán a la papelera y iStumbler reiniciará. No hay deshacer para esta operación.";
 
 /* No comment provided by engineer. */
-"We all need a little reset sometimes. iStumbler can reset just window positions or all preferences." = "We all need a little reset sometimes. iStumbler can reset just window positions or all preferences.";/**/
+"We all need a little reset sometimes. iStumbler can reset just window positions or all preferences." = "Todos necesitamos un pequeño reinicio algunas veces. iStumbler puede restablecer solo las posiciones de ventanas o todas las preferencias.";
 
 /* seven days, one week */
 "week" = "semana";
@@ -65,5 +65,5 @@
 "Welcome to iStumbler" = "Welcome to iStumbler";/**/
 
 /* No comment provided by engineer. */
-"Windows" = "Windows";/**/
+"Windows" = "Ventanas";
 
