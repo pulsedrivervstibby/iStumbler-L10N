@@ -1,32 +1,81 @@
 /* No comment provided by engineer. */
-"128 bit key format" = "128 bit key format";
+"802.11" = "802.11";
 
 /* No comment provided by engineer. */
-"40 bit key format" = "40 bit key format";
+"altitude" = "altitude";
 
-/* AirPortToolbar option to join */
-"Monitor Network" = "Monitor Network";
+/* No comment provided by engineer. */
+"at" = "at";
 
-/* Monitor Window Title */
-"Monitor" = "Monitor";
+/* No comment provided by engineer. */
+"band" = "band";
+
+/* basic service set identifier */
+"bssid" = "bssid";
+
+/* bytes unit (8 bits) */
+"bytes" = "bytes";
+
+/* No comment provided by engineer. */
+"channel" = "channel";
+
+/* No comment provided by engineer. */
+"country" = "country";
+
+/* No comment provided by engineer. */
+"frequency" = "frequency";
+
+/* No comment provided by engineer. */
+"from" = "from";
+
+/* No comment provided by engineer. */
+"information elements" = "information elements";
+
+/* No comment provided by engineer. */
+"last seen" = "last seen";
+
+/* No comment provided by engineer. */
+"location" = "location";
+
+/* network name */
+"name" = "name";
+
+/* No comment provided by engineer. */
+"No Network Selected" = "No Network Selected";
+
+/* No comment provided by engineer. */
+"precision" = "precision";
+
+/* No comment provided by engineer. */
+"protocol" = "protocol";
+
+/* No comment provided by engineer. */
+"regulations" = "regulations";
+
+/* No comment provided by engineer. */
+"Scan Found" = "Scan Found";
+
+/* security mode */
+"security" = "security";
 
 /* The Notification after clicking on a particular airport */
-"Selected %@" = "Selected %@";
-
-/* AirPortToolbar Signal Graph */
-"Signal Graph" = "Signal Graph";
-
-/* AirPortToolbar identifier of SSID */
-"SSID" = "SSID";
-
-/* */
-"wifi-scanning" = "Wi-Fi Scanning…";
-
-/* */
-"Wi-Fi Scan" = "Wi-Fi Scan";
-
-/* */
 "Selected" = "Selected";
 
-/* */
-"No Network Selected" = "No Network Selected"
+/* No comment provided by engineer. */
+"vendor" = "vendor";
+
+/* No comment provided by engineer. */
+"warnings" = "warnings";
+
+/* Monitor Window Title */
+"Wi-Fi Network Monitor" = "Wi-Fi Network Monitor";
+
+/* No comment provided by engineer. */
+"Wi-Fi Networks" = "Wi-Fi Networks";
+
+/* No comment provided by engineer. */
+"Wi-Fi Scan" = "Wi-Fi Scan";
+
+/* No comment provided by engineer. */
+"width" = "width";
+
