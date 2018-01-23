@@ -1,4 +1,4 @@
-﻿/* No comment provided by engineer. */
+/* No comment provided by engineer. */
 "128 bit key format" = "128 bit key format";
 
 /* No comment provided by engineer. */
@@ -22,3 +22,5 @@
 /* */
 "wifi-scanning" = "Wi-Fi Scanning…";
 
+/* */
+"Wi-Fi Scan" = "Wi-Fi Scan";
