@@ -1,0 +1,15 @@
+
+/* Class = "NSTextFieldCell"; title = "Need help with your license?"; ObjectID = "HMm-SZ-1zI"; */
+"HMm-SZ-1zI.title" = "¿Necesita ayuda con su licencia?";
+
+/* Class = "NSButtonCell"; title = "Later"; ObjectID = "UFt-fV-vzZ"; */
+"UFt-fV-vzZ.title" = "Luego";
+
+/* Class = "NSTextFieldCell"; title = "Not ready to buy right now? We'll remind you again in a little while:"; ObjectID = "ene-vc-Eix"; */
+"ene-vc-Eix.title" = "¿No está preparado para comprar ahora mismo? Le recordaremos otra vez en un rato:";
+
+/* Class = "NSButtonCell"; title = "Already Registered?"; ObjectID = "pwh-6t-Scz"; */
+"pwh-6t-Scz.title" = "Already Registered?";/**/
+
+/* Class = "NSWindow"; title = "iStumbler Store"; ObjectID = "r6N-Gf-vtr"; */
+"r6N-Gf-vtr.title" = "iStumbler Store";/**/
