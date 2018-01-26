@@ -53,10 +53,10 @@
 "Showing results for the last" = "Showing results for the last";
 
 /* No comment provided by engineer. */
-"The contents of your RadioStore caches will be moved to the trash and iStumbler will restart. There is no Undo for this operation." = "The contents of your RadioStore caches will be moved to the trash and iStumbler will restart. There is no Undo for this operation.";
+"Empty Cache Informative Text" = "The contents of your RadioStore caches will be moved to the trash and iStumbler will restart. There is no Undo for this operation.";
 
 /* No comment provided by engineer. */
-"We all need a little reset sometimes. iStumbler can reset just window positions or all preferences." = "We all need a little reset sometimes. iStumbler can reset just window positions or all preferences.";
+"Reset Preferences Informative Text" = "We all need a little reset sometimes. iStumbler can reset just window positions or all preferences.";
 
 /* seven days, one week */
 "week" = "week";
