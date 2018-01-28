@@ -1,0 +1,54 @@
+/* number sign */
+"#" = "#";
+
+/* No comment provided by engineer. */
+"CC" = "CC";
+
+/* channel */
+"ch" = "ch";
+
+/* No comment provided by engineer. */
+"Channel Ratings" = "Channel Ratings";
+
+/* No comment provided by engineer. */
+"channels" = "channels";
+
+/* count */
+"count" = "count";
+
+/* No comment provided by engineer. */
+"dfs" = "dfs";
+
+/* No comment provided by engineer. */
+"EIRP limit" = "EIRP limit";
+
+/* frequency */
+"freq" = "freq";
+
+/* InterFace */
+"if" = "if";
+
+/* scan elapsed */
+"length" = "length";
+
+/* load percentage */
+"load" = "load";
+
+/* No comment provided by engineer. */
+"Power limit" = "Power limit";
+
+/* regulations */
+"regs" = "regs";
+
+/* No comment provided by engineer. */
+"Regulations" = "Regulations";
+
+/* No comment provided by engineer. */
+"Scans" = "Scans";
+
+/* scan time */
+"start time" = "start time";
+
+/* scan type */
+"type" = "type";
+
