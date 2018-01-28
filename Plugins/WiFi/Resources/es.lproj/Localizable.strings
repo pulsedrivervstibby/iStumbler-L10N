@@ -1,10 +1,8 @@
 /* No comment provided by engineer. */
 "802.11" = "802.11";
 
-"128 bit key format" = "128 bit key format";
-
 /* No comment provided by engineer. */
-"altitude" = "altitude";/**/
+"altitude" = "altitud";
 
 /* No comment provided by engineer. */
 "at" = "en";
@@ -37,7 +35,7 @@
 "last seen" = "última vez detectada";
 
 /* No comment provided by engineer. */
-"location" = "location";/**/
+"location" = "ubicación";
 
 /* network name */
 "name" = "nombre";
@@ -46,7 +44,7 @@
 "No Network Selected" = "No hay red seleccionada";
 
 /* No comment provided by engineer. */
-"precision" = "precision";/**/
+"precision" = "precisión";
 
 /* No comment provided by engineer. */
 "protocol" = "protocolo";
