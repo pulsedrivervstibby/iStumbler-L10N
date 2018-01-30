@@ -2,53 +2,52 @@
 "#" = "#";
 
 /* No comment provided by engineer. */
-"CC" = "CC";
+"CC" = "CC";/
 
 /* channel */
-"ch" = "ch";
+"ch" = "cn";
 
 /* No comment provided by engineer. */
-"Channel Ratings" = "Channel Ratings";
+"Channel Ratings" = "Calificaciones de canal";
 
 /* No comment provided by engineer. */
-"channels" = "channels";
+"channels" = "channels";/**/
 
 /* count */
-"count" = "count";
+"count" = "total";
 
 /* No comment provided by engineer. */
-"dfs" = "dfs";
+"dfs" = "dfs";/**/
 
 /* No comment provided by engineer. */
-"EIRP limit" = "EIRP limit";
+"EIRP limit" = "Límite EIRP";
 
 /* frequency */
-"freq" = "freq";
+"freq" = "frec";
 
 /* InterFace */
 "if" = "if";
 
 /* scan elapsed */
-"length" = "length";
+"length" = "duración";
 
 /* load percentage */
-"load" = "load";
+"load" = "carga";
 
 /* No comment provided by engineer. */
-"Power limit" = "Power limit";
+"Power limit" = "Límite de potencia";
 
 /* regulations */
-"regs" = "regs";
+"regs" = "nors";
 
 /* No comment provided by engineer. */
-"Regulations" = "Regulations";
+"Regulations" = "Normativas";
 
 /* No comment provided by engineer. */
-"Scans" = "Scans";
+"Scans" = "Búsquedas";
 
 /* scan time */
-"start time" = "start time";
+"start time" = "Hora de inicio";
 
 /* scan type */
-"type" = "type";
-
+"type" = "tipo";
