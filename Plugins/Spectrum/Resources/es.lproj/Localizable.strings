@@ -1,33 +1,36 @@
 /* No comment provided by engineer. */
-"Dynamic WEP" = "Dynamic WEP";
+"Configuring" = "Configuring";
 
 /* No comment provided by engineer. */
-"Enterprise WEP" = "Enterprise WEP";
+"Connected" = "Connected";
 
 /* No comment provided by engineer. */
-"Enterprise WPA" = "Enterprise WPA";
+"Connecting" = "Connecting";
 
 /* No comment provided by engineer. */
-"Enterprise WPA 2" = "Enterprise WPA 2";
+"Device Info" = "Device Info";
 
 /* No comment provided by engineer. */
-"Enterprise WPA Mixed" = "Enterprise WPA Mixed";
+"Disconnected" = "Disconnected";
 
 /* No comment provided by engineer. */
-"Open" = "Open";
+"Discovered" = "Discovered";
 
 /* No comment provided by engineer. */
-"Unknown" = "Unknown";
+"No Device Connected" = "No Device Connected";
 
 /* No comment provided by engineer. */
-"WEP" = "WEP";
+"now" = "now";
 
 /* No comment provided by engineer. */
-"WPA" = "WPA";
+"Plugged" = "Plugged";
 
 /* No comment provided by engineer. */
-"WPA 2" = "WPA 2";
+"Store" = "Store";
 
 /* No comment provided by engineer. */
-"WPA Mixed" = "WPA Mixed";
+"Switching to" = "Switching to";
+
+/* No comment provided by engineer. */
+"Unplugged" = "Unplugged";
 

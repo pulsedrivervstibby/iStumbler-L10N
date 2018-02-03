@@ -8,8 +8,5 @@
 /* Class = "NSTextFieldCell"; title = "Not ready to buy right now? We'll remind you again in a little while:"; ObjectID = "ene-vc-Eix"; */
 "ene-vc-Eix.title" = "Not ready to buy right now? We'll remind you again in a little while:";
 
-/* Class = "NSButtonCell"; title = "Already Registered?"; ObjectID = "pwh-6t-Scz"; */
-"pwh-6t-Scz.title" = "Already Registered?";
-
 /* Class = "NSWindow"; title = "iStumbler Store"; ObjectID = "r6N-Gf-vtr"; */
 "r6N-Gf-vtr.title" = "iStumbler Store";
