@@ -11,13 +11,13 @@
 "Channel Ratings" = "Calificaciones de canal";
 
 /* No comment provided by engineer. */
-"channels" = "channels";/**/
+"channels" = "canales";
 
 /* count */
 "count" = "total";
 
 /* No comment provided by engineer. */
-"dfs" = "dfs";/**/
+"dfs" = "dfs";
 
 /* No comment provided by engineer. */
 "EIRP limit" = "Límite EIRP";
