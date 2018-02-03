@@ -105,7 +105,7 @@
 "cWu-55-frL.title" = "Seguimiento de ubicación";
 
 /* Class = "NSTableColumn"; headerCell.title = "Vert Accuracy"; ObjectID = "flk-Iv-IFb"; */
-"flk-Iv-IFb.headerCell.title" = "Precisión vert";
+"flk-Iv-IFb.headerCell.title" = "Precisión ver";
 
 /* Class = "NSToolbarItem"; label = "Zoom"; ObjectID = "ken-Dy-Q0v"; */
 "ken-Dy-Q0v.label" = "Zoom";
@@ -117,7 +117,7 @@
 "mEJ-TN-MU8.headerCell.title" = "Rumbo";
 
 /* Class = "NSTableColumn"; headerCell.title = "Horz Accuracy"; ObjectID = "pYy-g4-0Wh"; */
-"pYy-g4-0Wh.headerCell.title" = "Precisión horz";
+"pYy-g4-0Wh.headerCell.title" = "Precisión hor";
 
 /* Class = "NSToolbarItem"; label = "View"; ObjectID = "tgu-wp-VUC"; */
 "tgu-wp-VUC.label" = "Vista";
