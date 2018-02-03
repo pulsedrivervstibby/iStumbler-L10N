@@ -20,13 +20,13 @@
 "Blind Write" = "Blind Write";/**/
 
 /* No comment provided by engineer. */
-"Bluetooth Classic" = "Bluetooth Classic";/**/
+"Bluetooth Classic" = "Bluetooth clásico";
 
 /* ... # Bluetooth Devices */
 "Bluetooth Devices" = "Bluetooth Devices";/**/
 
 /* No comment provided by engineer. */
-"Bluetooth Low Energy" = "Bluetooth Low Energy";/**/
+"Bluetooth Low Energy" = "Bluetooth de baja energía";
 
 /* No comment provided by engineer. */
 "Broadcast" = "Broadcast";/**/
@@ -71,7 +71,7 @@
 "Format" = "Format";/**/
 
 /* No comment provided by engineer. */
-"identifier" = "identifier";/**/
+"identifier" = "identificador";
 
 /* bluetooth imaging device */
 "Imaging" = "Imaging";/**/
@@ -109,7 +109,7 @@
 /* No comment provided by engineer. */
 "no" = "no";/**/
 
-"No" = "No";/**/
+"No" = "No";
 
 /* No comment provided by engineer. */
 "No Device Selected" = "No hay dispositivo seleccionado";
@@ -151,7 +151,7 @@
 "Proxy" = "Proxy";/**/
 
 /* No comment provided by engineer. */
-"Radio Properties" = "Radio Properties";/**/
+"Radio Properties" = "Propiedades de radio";
 
 /* No comment provided by engineer. */
 "Read" = "Read";/**/
@@ -178,7 +178,7 @@
 "Signed Writes" = "Signed Writes";/**/
 
 /* No comment provided by engineer. */
-"state" = "state";/**/
+"state" = "estado";
 
 /* No comment provided by engineer. */
 "type" = "tipo";
@@ -202,23 +202,23 @@
 "Write" = "Write";/**/
 
 /* No comment provided by engineer. */
-"yes" = "si";
+"yes" = "yes";
 
 /* No comment provided by engineer. */
 "Yes" = "Si";
 
 /* Radio Properties bluetooth-type */
-"bluetooth-type" = "device type";/**/
+"bluetooth-type" = "tipo de dispositivo";
 
 /* Radio Properties bluetooth-linked */
-"bluetooth-link" = "device linked";/**/
+"bluetooth-link" = "dispositivo enlazado";
 
 /* Radio Properties bluetooth-paried */
-"bluetooth-paired" = "device paired";/**/
+"bluetooth-paired" = "dispositivo emparejado";
 
 /* Radio Properties bluetooth-paried */
-"bluetooth-favorite" = "favorite device";/**/
+"bluetooth-favorite" = "dispositivo favorito";
 
 /* Radio Properties uuid */
-"uuid" = "device uuid";/**/
+"uuid" = "uuid de dispositivo";
 
