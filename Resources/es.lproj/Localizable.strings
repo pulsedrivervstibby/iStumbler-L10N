@@ -1,68 +1,63 @@
-/* No comment provided by engineer. */
+/* Empty Cache Prompt Text */
 "Are you sure you want to empty the cache?" = "¿Está seguro que desea vaciar la caché?";
 
-/* No comment provided by engineer. */
+/* Cancel Button Title
+ Cancel Emptying Cache */
 "Cancel" = "Cancelar";
 
-/* twenty four hours, one day */
-"day" = "día";
-
-/* No comment provided by engineer. */
+/* Empty the Cache */
 "Empty" = "Vaciar";
 
-/* fiftreen minutes, a quarter hour */
-"fifteen minutes" = "quince minutos";
+/* Empty Cache Informative Text */
+"Empty Cache Informative Text" = "El contenido de sus cachés de RadioStore se moverán a la papelera y iStumbler reiniciará. No hay deshacer para esta operación.";
 
-/* five minutes */
-"five minutes" = "cinco minutos";
-
-/* a long time */
-"forever" = "forever";/**/
-
-/* thirty minutes, one half hour */
-"half hour" = "media hora";
-
-/* sixtey minutes, one hour */
-"hour" = "hora";
-
-/* Title of Window followed by Plugin Name which shows detailed information about a device */
+/* Inspector Window Title */
 "Inspector" = "Inspector";
 
 /* No comment provided by engineer. */
 "iStumbler" = "iStumbler";
 
-/* one minute */
-"minute" = "minuto";
-
-/* one month */
-"month" = "mes";
-
-/* No comment provided by engineer. */
+/* Reset Application Button Title */
 "Reset" = "Restablecer";
 
-/* No comment provided by engineer. */
+/* Reset iStumbler Preferences Message Text */
 "Reset iStumbler Preferences?" = "¿Restablecer preferencias de iStumbler?";
-
-/* alt: sweep, search, look */
-"scan" = "búsqueda";
-
-/* Showing all results, showing every item */
-"Showing all results" = "Mostrando todos los resultados";
-
-/* No comment provided by engineer. */
-"Showing results for the last" = "Mostrando resultado para la última";/*problema con el genero de last pdte revisar*/
-
-/* No comment provided by engineer. */
-"Empty Cache Informative Text" = "El contenido de sus cachés de RadioStore se moverán a la papelera y iStumbler reiniciará. No hay deshacer para esta operación.";
 
 /* No comment provided by engineer. */
 "Reset Preferences Informative Text" = "Todos necesitamos un pequeño reinicio algunas veces. iStumbler puede restablecer solo las posiciones de ventanas o todas las preferencias.";
 
-/* seven days, one week */
-"week" = "semana";
+/* Showing all results, showing every item */
+"Showing all results" = "Mostrando todos los resultados";
+
+/* twenty four hours, one day status text */
+"Showing results for the last day" = "Showing results for the last day";
+
+/* fiftreen minutes, a quarter hour status text */
+"Showing results for the last fifteen minutes" = "Showing results for the last fifteen minutes";/**/
+
+/* five minutes status text */
+"Showing results for the last five minutes" = "Showing results for the last five minutes";/**/
+
+/* thirty minutes, one half hour status text */
+"Showing results for the last half hour" = "Showing results for the last half hour";/**/
+
+/* sixtey minutes, one hour status text */
+"Showing results for the last hour" = "Showing results for the last hour";/**/
+
+/* one minute status text */
+"Showing results for the last minute" = "Showing results for the last minute";/**/
+
+/* one month status text */
+"Showing results for the last month" = "Showing results for the last month";/**/
+
+/* alt: sweep, search, look */
+"Showing results for the last scan" = "Showing results for the last búsqueda";/**/
+
+/* seven days, one week status text */
+"Showing results for the last week" = "Showing results for the last semana";/**/
 
 /* Welcome to iStumbler */
-"Welcome to iStumbler" = "Welcome to iStumbler";/**/
+"Welcome to iStumbler" = "Welcome to iStumbler";/*!*/
 
 /* No comment provided by engineer. */
 "Windows" = "Ventanas";
