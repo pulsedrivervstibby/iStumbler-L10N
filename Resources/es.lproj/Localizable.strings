@@ -30,31 +30,32 @@
 "Showing all results" = "Mostrando todos los resultados";
 
 /* twenty four hours, one day status text */
-"Showing results for the last day" = "Showing results for the last day";
+
+"Showing results for the last day" = "Mostrando resultados en el último día";
 
 /* fiftreen minutes, a quarter hour status text */
-"Showing results for the last fifteen minutes" = "Showing results for the last fifteen minutes";/**/
+"Showing results for the last fifteen minutes" = "Mostrando resultados en los últimos quince minutos";
 
 /* five minutes status text */
-"Showing results for the last five minutes" = "Showing results for the last five minutes";/**/
+"Showing results for the last five minutes" = "Mostrando resultados en los últimos cinco minutos";
 
 /* thirty minutes, one half hour status text */
-"Showing results for the last half hour" = "Showing results for the last half hour";/**/
+"Showing results for the last half hour" = "Mostrando resultados en la última media hora";
 
 /* sixtey minutes, one hour status text */
-"Showing results for the last hour" = "Showing results for the last hour";/**/
+"Showing results for the last hour" = "Mostrando resultados en la última hora";
 
 /* one minute status text */
-"Showing results for the last minute" = "Showing results for the last minute";/**/
+"Showing results for the last minute" = "Mostrando resultados en el último minuto";
 
 /* one month status text */
-"Showing results for the last month" = "Showing results for the last month";/**/
+"Showing results for the last month" = "Mostrando resultados en el último mes";
 
 /* alt: sweep, search, look */
-"Showing results for the last scan" = "Showing results for the last búsqueda";/**/
+"Showing results for the last scan" = "Mostrando resultados en la última búsqueda";
 
 /* seven days, one week status text */
-"Showing results for the last week" = "Showing results for the last semana";/**/
+"Showing results for the last week" = "Mostrando resultados en la última semana";
 
 /* Welcome to iStumbler */
 "Welcome to iStumbler" = "Welcome to iStumbler";/*!*/
