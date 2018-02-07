@@ -1,214 +1,35 @@
-/* bluetooth AP */
+/* Bluetooth Access Point Device Class */
 "Access Point" = "Access Point";/**/
 
-/* No comment provided by engineer. */
+/* Bluetooth Device MAC Address. */
 "address" = "dirección";
 
-/* No comment provided by engineer. */
+/* Aggregate Format Descriptor. */
 "Aggregate Format" = "Aggregate Format";/**/
 
-/* No comment provided by engineer. */
-"altitude" = "altitude";/**/
+/* Device Location Altitude in Meters. */
+"altitude" = "altitud";/*?*/
 
-/* any bluetooth device */
-"Any" = "Any";/**/
+/* Any Bluetooth Device Class */
+"Any" = "Cualquier";/*?*/
 
-/* bluetooth audio */
+/* Bluetooth Audio Device Class */
 "Audio" = "Audio";
 
-/* No comment provided by engineer. */
+/* Blind Write Characteristic. */
 "Blind Write" = "Blind Write";/**/
 
-/* No comment provided by engineer. */
+/* Bluetooth Classic Title. */
 "Bluetooth Classic" = "Bluetooth clásico";
 
 /* ... # Bluetooth Devices */
 "Bluetooth Devices" = "Bluetooth Devices";/**/
 
-/* No comment provided by engineer. */
+/* Bluetooth Low Energy Title */
 "Bluetooth Low Energy" = "Bluetooth de baja energía";
 
-/* No comment provided by engineer. */
-"Broadcast" = "Broadcast";/**/
-
-/* No comment provided by engineer. */
-"Broadcasted" = "Broadcasted";/**/
-
-/* No comment provided by engineer. */
-"Bytes" = "Bytes";/**/
-
-/* No comment provided by engineer. */
-"cache" = "cache";/**/
-
-/* No comment provided by engineer. */
-"class of device" = "clase de dispositivo";
-
-/* No comment provided by engineer. */
-"Client Configuration" = "Client Configuration";/**/
-
-/* No comment provided by engineer. */
-"clock offset" = "Intervalo de reloj";
-
-/* bluetooth computer */
-"Computer" = "Equipo";
-
-/* # Connected Bluetooth Devices */
-"Connected Bluetooth Devices" = "dispositivos bluetooth conectados";
-
-/* No comment provided by engineer. */
-"device class major" = "clase principal de dispositivo";
-
-/* No comment provided by engineer. */
-"device class minor" = "clase secundaria de dispositivo";
-
-/* No comment provided by engineer. */
-"encryption mode" = "modo de cifrado";
-
-/* No comment provided by engineer. */
-"Extended Properties" = "Extended Properties";/**/
-
-/* No comment provided by engineer. */
-"Format" = "Format";/**/
-
-/* No comment provided by engineer. */
-"identifier" = "identificador";
-
-/* bluetooth imaging device */
-"Imaging" = "Imaging";/**/
-
-/* No comment provided by engineer. */
-"incoming connection" = "conexión entrante";
-
-/* No comment provided by engineer. */
-"Indicate" = "Indicate";/**/
-
-/* No comment provided by engineer. */
-"Indicate Encryption Required" = "Indicate Encryption Required";/**/
-
-/* Inquriy Found # ... */
-"Inquiry Found" = "Inquiry Found";/**/
-
-/* No comment provided by engineer. */
-"last inquiry" = "última petición";
-
-/* No comment provided by engineer. */
-"last seen" = "última vez detectado";
-
-/* No comment provided by engineer. */
-"last services" = "últimos servicios";
-
-/* No comment provided by engineer. */
-"location" = "location";/**/
-
-/* misc. bluetooth device */
-"Misc." = "Misc.";
-
-/* No comment provided by engineer. */
-"name" = "nombre";
-
-/* No comment provided by engineer. */
-"no" = "no";/**/
-
-"No" = "No";
-
-/* No comment provided by engineer. */
-"No Device Selected" = "No hay dispositivo seleccionado";
-
-/* no bluetooth device */
-"None" = "None";/**/
-
-/* No comment provided by engineer. */
-"Notify" = "Notify";/**/
-
-/* No comment provided by engineer. */
-"Notify Encryption Required" = "Notify Encryption Required";/**/
-
-/* No comment provided by engineer. */
-"Notifying" = "Notifying";/**/
-
-/* No comment provided by engineer. */
-"page scan mode" = "modo de búsqueda";
-
-/* No comment provided by engineer. */
-"page scan period" = "período de búsqueda";
-
-/* No comment provided by engineer. */
-"page scan repetition" = "repetición de búsqueda";
-
-/* bluetooth peripheral */
-"Peripheral" = "Periférico";
-
-/* bluetooth phone */
-"Phone" = "Teléfono";
-
-/* No comment provided by engineer. */
-"precision" = "precision";/**/
-
-/* No comment provided by engineer. */
-"Primary" = "Primary";/**/
-
-/* No comment provided by engineer. */
-"Proxy" = "Proxy";/**/
-
-/* No comment provided by engineer. */
-"Radio Properties" = "Propiedades de radio";
-
-/* No comment provided by engineer. */
-"Read" = "Read";/**/
-
-/* No comment provided by engineer. */
-"recent access" = "acceso reciente";
-
-/* No comment provided by engineer. */
-"resolved" = "resolved";/**/
-
-/* Recieved Signal Strength Indicator */
-"RSSI" = "RSSI";
-
-/* No comment provided by engineer. */
-"Server Configuration" = "Server Configuration";/**/
-
-/* No comment provided by engineer. */
-"service class major" = "clase principal de servicio";
-
-/* No comment provided by engineer. */
-"services" = "servicios";
-
-/* No comment provided by engineer. */
-"Signed Writes" = "Signed Writes";/**/
-
-/* No comment provided by engineer. */
-"state" = "estado";
-
-/* No comment provided by engineer. */
-"type" = "tipo";
-
-/* No comment provided by engineer. */
-"Unassigned" = "Unassigned";/**/
-
-/* unclassified bluetooth device */
-"Unclassified" = "Unclassified";/**/
-
-/* No comment provided by engineer. */
-"Unknown" = "Desconocido";
-
-/* No comment provided by engineer. */
-"User Description" = "User Description";/**/
-
-/* No comment provided by engineer. */
-"Valid Range" = "Valid Range";/**/
-
-/* No comment provided by engineer. */
-"Write" = "Write";/**/
-
-/* No comment provided by engineer. */
-"yes" = "yes";
-
-/* No comment provided by engineer. */
-"Yes" = "Si";
-
-/* Radio Properties bluetooth-type */
-"bluetooth-type" = "tipo de dispositivo";
+/* Radio Properties bluetooth-paried */
+"bluetooth-favorite" = "dispositivo favorito";
 
 /* Radio Properties bluetooth-linked */
 "bluetooth-link" = "dispositivo enlazado";
@@ -216,9 +37,222 @@
 /* Radio Properties bluetooth-paried */
 "bluetooth-paired" = "dispositivo emparejado";
 
-/* Radio Properties bluetooth-paried */
-"bluetooth-favorite" = "dispositivo favorito";
+/* Radio Properties bluetooth-type */
+"bluetooth-type" = "tipo de dispositivo";
 
-/* Radio Properties uuid */
+/* Broadcast Characteristic. */
+"Broadcast" = "transmitir";/*?*/
+
+/* Characteristic is/was Broadcasted. */
+"Broadcasted" = "Broadcasted";/**/
+
+/* Characteristic Byte Length */
+"Bytes" = "Bytes";/**/
+
+/* Bluetooth Class of Device */
+"class of device" = "clase de dispositivo";
+
+/* Client Configuration Descriptor */
+"Client Configuration" = "Client Configuration";/**/
+
+/* Bluetooth Device Clock Offset */
+"clock offset" = "Intervalo de reloj";
+
+/* Computer Bluetooth Device Class */
+"Computer" = "Equipo";
+
+/* Bluetooth Peripheral State is Connected */
+"Connected" = "Empalmar";/*?*/
+
+/* # Connected Bluetooth Devices */
+"Connected Bluetooth Devices" = "dispositivos bluetooth conectados";
+
+/* Bluetooth Peripheral State is Connecting */
+"Connecting" = "Lo Comunico";/*?*/
+
+/* Bluetooth Device Class Major */
+"device class major" = "clase principal de dispositivo";
+
+/* Bluetooth Device Class Minor */
+"device class minor" = "clase secundaria de dispositivo";
+
+/* Bluetooth Peripheral State was Disconnected */
+"Disconnected" = "Disconnected";/**/
+
+/* Bluetooth Peripheral State is Disconnecting */
+"Disconnecting" = "Disconnecting";/*/
+
+/* Bluetooth Device Encryption Mode */
+"encryption mode" = "modo de cifrado";
+
+/* Extended Properties
+ Extended Properties Descriptor */
+"Extended Properties" = "Extended Properties";/**/
+
+/* Format Descriptor */
+"Format" = "Formato";/*?*/
+
+/* Bluetooth Low Energy Peripheral Identifier UUID */
+"identifier" = "identificador";
+
+/* Bluetooth Imaging Device Class */
+"Imaging" = "Imprimir";/*?*/
+
+/* Bluetooth Device is incoming connection */
+"incoming connection" = "conexión entrante";
+
+/* Indicate  Characteristic */
+"Indicate" = "Indicate";/**/
+
+/* Indicate Encryption Required Characteristic */
+"Indicate Encryption Required" = "Indicate Encryption Required";/**/
+
+/* Inquriy Found # ... */
+"Inquiry Found" = "Inquiry Found";/**/
+
+/* Bluetooth Device Last Inquiry Time */
+"last inquiry" = "última petición";
+
+/* Device Last Seen Date */
+"last seen" = "última vez detectado";
+
+/* Bluetooth Device Last Service Update Time */
+"last services" = "últimos servicios";
+
+/* Device GPS Location */
+"location" = "Posición";/*?*/
+
+/* Misc. Bluetooth Device Class */
+"Misc." = "Misc.";
+
+/* Bluetooth Low Energy Peripheral Name */
+"name" = "nombre";
+
+/*no value */
+"no" = "no";
+
+/* No Value */
+"No" = "No";
+
+/* No Bluetooth Device Selected. */
+"No Device Selected" = "No hay dispositivo seleccionado";
+
+/* No Bluetooth Device Class */
+"None" = "None";/**/
+
+/* Notify Characteristic. */
+"Notify" = "Notify";/**/
+
+/* Notify Encryption Required Characteristic */
+"Notify Encryption Required" = "Notify Encryption Required";/**/
+
+/* Characteristic is Notifying */
+"Notifying" = "Notifying";/**/
+
+/* Bluetooth Device page scan mode */
+"page scan mode" = "modo de búsqueda";
+
+/* Bluetooth Device  page scan period */
+"page scan period" = "período de búsqueda";
+
+/* Bluetooth Device page scan repetition */
+"page scan repetition" = "repetición de búsqueda";
+
+/* Bluetooth Peripheral Device Class */
+"Peripheral" = "Periférico";
+
+/* Bluetooth Phone Device Class */
+"Phone" = "Teléfono";
+
+/* Bluetooth Low Energy State is Powered Off */
+"Powered Off" = "Powered Off";/**/
+
+/* Bluetooth Low Energy State is Powered On */
+"Powered On" = "Powered On";/**/
+
+/* Device Location Precision in Meters */
+"precision" = "precisión";/*?*/
+
+/* A Primary Serivce. */
+"Primary" = "Primario";/*?*/
+
+/* A Proxy Service */
+"Proxy" = "Poderes";/*?*/
+
+/* Radio Properties Title */
+"Radio Properties" = "Propiedades de radio";
+
+/* Read Characteristic */
+"Read" = "Read";/**/
+
+/* Bluetooth Device Recent Access */
+"recent access" = "acceso reciente";
+
+/* Bluetooth Low Energy State is Resetting */
+"Resetting" = "Resetting";
+
+/* Bluetooth Peripheral is Fully Resoved */
+"Resolved" = "Resolved";
+
+/* Bluetooth Low Energy Peripheral is Resolved */
+"resolved" = "resolved";/**/
+
+/* Recieved Signal Strength Indicator */
+"RSSI" = "RSSI";
+
+/* Server Configuration Descriptor */
+"Server Configuration" = "Server Configuration";/**/
+
+/* Bluetooth Service Class Major */
+"service class major" = "clase principal de servicio";
+
+/* Services Count */
+"services" = "servicios";
+
+/* Signed Writes Characteristic */
+"Signed Writes" = "Signed Writes";/**/
+
+/* Bluetooth Low Energy Peripheral State */
+"state" = "estado";
+
+/* Bluetooth Device Type */
+"type" = "tipo";
+
+/* Unassigned Service Onwer */
+"Unassigned" = "Sin Firmar";/*?*/
+
+/* Bluetooth Low Energy State is Unauthorized */
+"Unauthorized" = "No Autorizado";/*?*/
+
+/* Unclassified Bluetooth Device Class */
+"Unclassified" = "Sin Clasificar";/*?*/
+
+/* Unknown
+ Unknown Bluetooth State
+ Unknown Characteristic
+ Unknown Descriptor
+ Unknown Peripheral State
+ Unknown Service */
+"Unknown" = "Desconocido";
+
+/* Bluetooth Low Energy State is Unsupported */
+"Unsupported" = "sin asistencia técnica";/*?*/
+
+/* User Description Descriptor */
+"User Description" = "User Description";/**/
+
+/* Bluetooth Device Identifier UUID */
 "uuid" = "uuid de dispositivo";
+
+/* Valid Range Descriptor */
+"Valid Range" = "Valid Range";/**/
+
+/* Write Characteristic */
+"Write" = "Escribir";/*?*/
+
+/* Yes Value */
+"yes" = "si";
+
+/* yes value */
+"Yes" = "Si";
 
