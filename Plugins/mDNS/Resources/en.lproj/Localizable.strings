@@ -43,3 +43,11 @@
 /* service URL */
 "URL" = "URL";
 
+/* PluginName */
+"Bonjour" = "Bonjour";
+
+/* PluginPreferencesTitle */
+"Bonjour Preferences" = "Bonjour Preferences";
+
+/* PluginInspectorTitle */
+"Bonjour Inspector" = "Bonjour Inspector";/*!*/

@@ -1,2 +1,8 @@
-/* Option to Clear the log */
-"Clear Log" = "Clear Log";
+/* PluginName */
+"Log" = "Log";
+
+/* PluginPreferencesTitle */
+"Log Preferences" = "Log Preferences";
+
+/* PluginInspectorTitle */
+"Log Inspector" = "Log Inspector";/*!*/

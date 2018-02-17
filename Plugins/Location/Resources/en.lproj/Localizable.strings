@@ -1,6 +1,8 @@
-/* Toolbar Items */
-
+/* PluginName */
 "Location" = "Location";
-"Push Pin" = "Push Pin";
-"Remove" = "Remove";
-"Show Map" = "Show Map";
+
+/* PluginPreferencesTitle */
+"Location Preferences" = "Location Preferences";
+
+/* PluginInspectorTitle */
+"Location Inspector" = "Location Inspector";/*!*/

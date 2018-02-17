@@ -256,3 +256,11 @@
 /* yes value */
 "Yes" = "Si";
 
+/* PluginName */
+"Bluetooth" = "Bluetooth";
+
+/* PluginPreferencesTitle */
+"Bluetooth Preferences" = "Preferencias Bluetooth";
+
+/* PluginInspectorTitle */
+"Bluetooth Inspector" = "Inspector Bluetooth";/*!*/
