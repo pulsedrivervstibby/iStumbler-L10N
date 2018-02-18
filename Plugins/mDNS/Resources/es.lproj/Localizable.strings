@@ -8,7 +8,7 @@
 "kCFNetServicesErrorTimeout" = "Timeout";/**/
 
 /* No comment provided by engineer. */
-"Network Addresses" = "Network Addresses";/**/
+"Network Addresses" = "Direcciones de red";
 
 /* No comment provided by engineer. */
 "No Service Selected" = "No hay servicio seleccionado";
@@ -35,7 +35,7 @@
 "NSNetServicesUnknownError" = "Unknown Error";/**/
 
 /* No comment provided by engineer. */
-"Text Records" = "Text Records";/**/
+"Text Records" = "Registros text";
 
 /* service type */
 "type" = "tipo";
@@ -43,3 +43,11 @@
 /* service URL */
 "URL" = "URL";
 
+/* PluginName */
+"Bonjour" = "Bonjour";
+
+/* PluginPreferencesTitle */
+"Bonjour Preferences" = "Preferencias de Bonjour";
+
+/* PluginInspectorTitle */
+"Bonjour Inspector" = "Bonjour Inspector";/**/
