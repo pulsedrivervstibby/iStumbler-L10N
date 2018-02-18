@@ -5,11 +5,8 @@
 /* Class = "NSButtonCell"; title = "Purchase License…"; ObjectID = "C7s-Ud-ed0"; */
 "C7s-Ud-ed0.title" = "Adquirir licencia…";
 
-/* Class = "NSButtonCell"; title = "Open License…"; ObjectID = "Xh8-7b-2aS"; */
-"Xh8-7b-2aS.title" = "Open License…";/**/
-
 /* Class = "NSButtonCell"; title = "Open License…"; ObjectID = "ZgP-Ez-QgQ"; */
-"ZgP-Ez-QgQ.title" = "Open License…";/**/
+"ZgP-Ez-QgQ.title" = "Abrir licencia…";
 
 /* Class = "NSTextFieldCell"; title = "iStumbler is Unlicensed"; ObjectID = "ae9-d7-Ayw"; */
 "ae9-d7-Ayw.title" = "iStumbler está sin licencia";

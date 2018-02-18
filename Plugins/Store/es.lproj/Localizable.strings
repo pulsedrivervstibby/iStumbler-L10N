@@ -4,3 +4,12 @@
 "StoreLinkText" = "Visite la tienda";
 
 "StorePitch" = "\niStumbler cuesta solo USD $9.99 para todos los equipos de su propiedad.\n\nAceptamos tarjetas de crédito, PayPal y Bitcoin.\n\n";
+
+/* PluginName */
+"License" = "Licencia";
+
+/* PluginPreferencesTitle */
+"License Preferences" = "Preferencias de licencia";
+
+/* PluginInspectorTitle */
+"License Inspector" = "License Inspector";/**/
