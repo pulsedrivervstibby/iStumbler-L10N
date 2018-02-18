@@ -138,7 +138,7 @@
 "906.title" = "Bonjour";
 
 /* Class = "NSMenuItem"; title = "Location"; ObjectID = "907"; */
-"907.title" = "Location";
+"907.title" = "Ubicación";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "917"; */
 "917.title" = "Window";
@@ -189,7 +189,7 @@
 "piV-ZE-QIm.title" = "Vaciar caché…";
 
 /* Class = "NSMenuItem"; title = "Channels"; ObjectID = "qgD-Ek-2kX"; */
-"qgD-Ek-2kX.title" = "Channels";
+"qgD-Ek-2kX.title" = "Canales";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "sHd-bH-oXi"; */
 "sHd-bH-oXi.title" = "Menu";
