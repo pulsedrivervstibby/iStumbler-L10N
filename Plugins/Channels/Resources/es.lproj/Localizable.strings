@@ -51,3 +51,12 @@
 
 /* scan type */
 "type" = "tipo";
+
+/* PluginName */
+"Channels" = "Canales";
+
+/* PluginPreferencesTitle */
+"Channels Preferences" = "Preferencias de canales";
+
+/* PluginInspectorTitle */
+"Channels Inspector" = "Channels Inspector";/**/
