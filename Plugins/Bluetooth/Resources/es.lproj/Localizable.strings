@@ -8,7 +8,7 @@
 "Aggregate Format" = "Aggregate Format";/**/
 
 /* Device Location Altitude in Meters. */
-"altitude" = "altitude";/**/
+"altitude" = "altitud";/*?*/
 
 /* Any Bluetooth Device Class */
 "Any" = "Any";/**/
@@ -62,13 +62,13 @@
 "Computer" = "Equipo";
 
 /* Bluetooth Peripheral State is Connected */
-"Connected" = "Connected";/**/
+"Connected" = "Conectado";
 
 /* # Connected Bluetooth Devices */
 "Connected Bluetooth Devices" = "dispositivos bluetooth conectados";
 
 /* Bluetooth Peripheral State is Connecting */
-"Connecting" = "Connecting";/**/
+"Connecting" = "Conectando";
 
 /* Bluetooth Device Class Major */
 "device class major" = "clase principal de dispositivo";
@@ -77,7 +77,7 @@
 "device class minor" = "clase secundaria de dispositivo";
 
 /* Bluetooth Peripheral State was Disconnected */
-"Disconnected" = "Disconnected";/**/
+"Disconnected" = "Desconectado";
 
 /* Bluetooth Peripheral State is Disconnecting */
 "Disconnecting" = "Disconnecting";/**/
@@ -192,7 +192,7 @@
 "Resetting" = "Resetting";
 
 /* Bluetooth Peripheral is Fully Resoved */
-"Resolved" = "Resolved";
+"Resolved" = "Resolved";/**/
 
 /* Bluetooth Low Energy Peripheral is Resolved */
 "resolved" = "resolved";/**/
@@ -225,7 +225,7 @@
 "Unauthorized" = "Unauthorized";/**/
 
 /* Unclassified Bluetooth Device Class */
-"Unclassified" = "No identificado";
+"Unclassified" = "Unclassified";/**/
 
 /* Unknown
  Unknown Bluetooth State
@@ -256,3 +256,11 @@
 /* yes value */
 "Yes" = "Si";
 
+/* PluginName */
+"Bluetooth" = "Bluetooth";
+
+/* PluginPreferencesTitle */
+"Bluetooth Preferences" = "Preferencias de bluetooth";
+
+/* PluginInspectorTitle */
+"Bluetooth Inspector" = "Bluetooth Inspector";/**/
