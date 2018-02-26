@@ -8,9 +8,6 @@
 /* PluginInspectorTitle */
 "License Inspector" = "Inspector de licencia";/*!*/
 
-/* Store */
-"Store" = "Store";/**/
-
 /* Store Link URL */
 "Store Link URL" = "https://istumbler.net/store/?r=app";
 
@@ -18,6 +15,7 @@
 "Store Link Text" = "Visite la tienda";
 
 /* Invalid License File */
+<<<<<<< HEAD
 "Invalid License File" = "Invalid License File";/**/
 
 /* "Invalid License Reason" */
@@ -73,3 +71,4 @@
 
 /* License Signature */
 "Signature" = "Firma";
+
