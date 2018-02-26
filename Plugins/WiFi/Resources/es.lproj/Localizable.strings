@@ -80,7 +80,7 @@
 "width" = "ancho";
 
 /* */
-"Wi-Fi Scan" = "Wi-Fi Scan";/**/
+"Wi-Fi Scan" = "Wi-Fi Scan";
 
 /* PluginName */
 "Wi-Fi" = "Wi-Fi";
@@ -89,5 +89,7 @@
 "Wi-Fi Preferences" = "Preferencias de Wi-Fi";
 
 /* PluginInspectorTitle */
-"Wi-Fi Inspector" = "Wi-Fi Inspector";/**/
+"Wi-Fi Preferences" = "Preferencias Wi-Fi";
 
+/* PluginInspectorTitle */
+"Wi-Fi Inspector" = "Inspector Wi-Fi";/**/

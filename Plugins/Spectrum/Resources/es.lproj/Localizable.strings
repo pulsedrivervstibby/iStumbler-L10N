@@ -5,25 +5,25 @@
 "Connected" = "Conectado";
 
 /* Plugin: Connecting */
-"Connecting" = "Connecting";/**/
+"Connecting" = "Connecting";/*!*/
 
 /* Device Info Title */
-"Device Info" = "Device Info";/**/
+"Device Info" = "Device Info";/*!*/
 
 /* Plugin: Disconnected */
-"Disconnected" = "Disconnected";/**/
+"Disconnected" = "Disconnected";/*!*/
 
 /* Plugin: Discovered */
-"Discovered" = "Discovered";/**/
+"Discovered" = "Discovered";/*!*/
 
 /* No Device Connected Label */
-"No Device Connected" = "No Device Connected";/**/
+"No Device Connected" = "No Device Connected";/*!*/
 
 /* No comment provided by engineer. */
 "now" = "ahora";
 
 /* Plugin: Plugged */
-"Plugged" = "Plugged";/**/
+"Plugged" = "Plugged";/*!*/
 
 /* Plugin: Store */
 "Store" = "Tienda";
@@ -41,4 +41,4 @@
 "WiPry Preferences" = "Preferencias de WiPry";
 
 /* PluginInspectorTitle */
-"WiPry Inspector" = "WiPry Inspector";/**/
+"WiPry Inspector" = "Inspector de WiPry";/**/

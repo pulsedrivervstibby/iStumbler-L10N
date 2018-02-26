@@ -79,3 +79,11 @@
 /* No comment provided by engineer. */
 "width" = "width";
 
+/* PluginName */
+"Wi-Fi" = "Wi-Fi";
+
+/* PluginPreferencesTitle */
+"Wi-Fi Preferences" = "Wi-Fi Preferences";
+
+/* PluginInspectorTitle */
+"Wi-Fi Inspector" = "Wi-Fi Inspector";/*!*/
