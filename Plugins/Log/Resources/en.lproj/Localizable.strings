@@ -1,8 +1,8 @@
 /* PluginName */
-"Log" = "Log";
+"Logging" = "Logging";
 
 /* PluginPreferencesTitle */
-"Log Preferences" = "Log Preferences";
+"Logging Preferences" = "Logging Preferences";
 
 /* PluginInspectorTitle */
-"Log Inspector" = "Log Inspector";/*!*/
+"Logging Inspector" = "Logging Inspector";/**/

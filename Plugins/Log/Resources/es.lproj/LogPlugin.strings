@@ -11,9 +11,6 @@
 /* Class = "NSButtonCell"; title = "Select..."; ObjectID = "76"; */
 "76.title" = "Seleccionar...";
 
-/* Class = "NSButtonCell"; title = "Log All"; ObjectID = "77"; */
-"77.title" = "Log All";/**/
-
 /* Class = "NSTextFieldCell"; title = "Logged Events"; ObjectID = "79"; */
 "79.title" = "Eventos registrados";
 

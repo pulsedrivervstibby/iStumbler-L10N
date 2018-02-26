@@ -1,10 +1,4 @@
 
-"Store" = "Store";/**/
-"StoreLinkURL" = "https://istumbler.net/store/?ref=lic102";
-"StoreLinkText" = "Visite la tienda";
-
-"StorePitch" = "\niStumbler cuesta solo USD $9.99 para todos los equipos de su propiedad.\n\nAceptamos tarjetas de crédito, PayPal y Bitcoin.\n\n";
-
 /* PluginName */
 "License" = "Licencia";
 
@@ -13,3 +7,69 @@
 
 /* PluginInspectorTitle */
 "License Inspector" = "Inspector de licencia";/*!*/
+
+/* Store */
+"Store" = "Store";
+
+/* Store Link URL */
+"Store Link URL" = "https://istumbler.net/store/?r=app";
+
+/* Store Link Text */
+"Store Link Text" = "Visite la tienda";
+
+/* Invalid License File */
+"Invalid License File" = "Invalid License File";
+
+/* "Invalid License Reason" */
+"Invalid License Reason" = "The license file is invalid. Pleaes report this to support with your email address so we can assist you.";
+
+/* License Help */
+"License Help" = "License Help";
+
+/* License Help Reason */
+"License Help Reason" = "Please submit this report, and include your email so we can contact you for assistance.";
+
+/* License Already Installed */
+"License Already Installed" = "License Already Installed";
+
+/* That license file is already installed */
+"That license file is already installed" = "That license file is already installed";
+
+/* You can replace the exisitng license file, or cancel. */
+"You can replace the exisitng license file, or cancel." = "You can replace the exisitng license file, or cancel.";
+
+/* Replace */
+"Replace" = "Replace";
+
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* Found iStumbler License File */
+"Found iStumbler License File" = "Found iStumbler License File";
+
+/* e.g. Would you like to install the license file: Example.istumblerlicense? */
+"Would you like to install the license file: %@?" = "Would you like to install the license file: %@?";
+
+/* Anonymous */
+"Anonymous" = "Anonymous";
+
+/* e.g. Licensed to Anonymous */
+"Licensed to %@" = "Licensed to %@";
+
+/* Licnese Name */
+"Name" = "Name";
+
+/* License Email */
+"Email" = "Email";
+
+/* License Product */
+"Product" = "Product";
+
+/* Licesne Date */
+"Date" = "Date";
+
+/* License Timestamp */
+"Timestamp" = "Date";
+
+/* License Signature */
+"Signature" = "Signature";
