@@ -86,8 +86,10 @@
 "Wi-Fi" = "Wi-Fi";
 
 /* PluginPreferencesTitle */
+"Wi-Fi Preferences" = "Preferencias de Wi-Fi";
+
+/* PluginInspectorTitle */
 "Wi-Fi Preferences" = "Preferencias Wi-Fi";
 
 /* PluginInspectorTitle */
-"Wi-Fi Inspector" = "Inspector Wi-Fi";/*!*/
-
+"Wi-Fi Inspector" = "Inspector Wi-Fi";/**/

@@ -1,8 +1,8 @@
 /* PluginName */
-"Location" = "Location";
+"Location" = "Ubicación";
 
 /* PluginPreferencesTitle */
-"Location Preferences" = "Location Preferences";
+"Location Preferences" = "Preferencias de ubicación";
 
 /* PluginInspectorTitle */
-"Location Inspector" = "Location Inspector";/*!*/
+"Location Inspector" = "Inspector de ubicación";/**/
