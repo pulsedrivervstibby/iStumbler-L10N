@@ -29,16 +29,16 @@
 "mac" = "mac";
 
 /* best location */
-"best location" = "Mejor ubicación";
+"best location" = "ubicación óptima";
 
 /* last seen */
-"last seen" = "última vez vista";
+"last seen" = "última vez detectada";
 
 /* best estimate */
-"best estimate" = "mejor estimación";
+"best estimate" = "estimación óptima";
 
 /* last estimate */
-"best time" = "best time";
+"best time" = "hora óptima";
 
 /* last estimate */
 "last estimate" = "última estimación";
@@ -53,10 +53,10 @@
 "%lu Items" = "%lu Ítems";
 
 /* here */
-"here" = "here";
+"here" = "aquí";
 
 /* still */
-"still" = "still";
+"still" = "inmóvil";
 
 /* Location Services Disabled */
 "Location Services Disabled" = "Servicios de ubicación desactivados";
