@@ -57,3 +57,6 @@
 
 /* still */
 "still" = "still";
+
+/* Location Services Disabled */
+"Location Services Disabled" = "Servicios de ubicación desactivados";

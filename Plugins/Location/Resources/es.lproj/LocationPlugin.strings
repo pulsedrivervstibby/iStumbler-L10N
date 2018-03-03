@@ -29,12 +29,6 @@
 /* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "1rk-WM-CpR"; */
 "1rk-WM-CpR.headerCell.title" = "Hora";
 
-/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "3Vk-GD-llD"; */
-"3Vk-GD-llD.title" = "Name";/**/
-
-/* Class = "NSTextFieldCell"; title = "Location Plugin"; ObjectID = "74B-z5-VHa"; */
-"74B-z5-VHa.title" = "Location Plugin";/**/
-
 /* Class = "NSToolbarItem"; label = "Export"; ObjectID = "7rk-Lc-5un"; */
 "7rk-Lc-5un.label" = "Exportar";
 
@@ -74,9 +68,6 @@
 /* Class = "NSTableColumn"; headerCell.title = "Bearing"; ObjectID = "MNZ-VO-sms"; */
 "MNZ-VO-sms.headerCell.title" = "Orientación";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Nqs-aD-27K"; */
-"Nqs-aD-27K.title" = "Text Cell";
-
 /* Class = "NSTableColumn"; headerCell.title = "Distance"; ObjectID = "NxF-Py-b8f"; */
 "NxF-Py-b8f.headerCell.title" = "Distancia";
 
@@ -96,7 +87,7 @@
 "TKd-cp-3Od.headerCell.title" = "○";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Current Location"; ObjectID = "UAX-Vo-9VG"; */
-"UAX-Vo-9VG.placeholderString" = "Current Location";/**/
+"UAX-Vo-9VG.placeholderString" = "Ubicación actual";
 
 /* Class = "NSMenuItem"; title = "Maps"; ObjectID = "Xwz-19-JgY"; */
 "Xwz-19-JgY.title" = "Mapas";
@@ -124,9 +115,3 @@
 
 /* Class = "NSToolbarItem"; paletteLabel = "View"; ObjectID = "tgu-wp-VUC"; */
 "tgu-wp-VUC.paletteLabel" = "Vista";
-
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "uXc-8X-yAl"; */
-"uXc-8X-yAl.title" = "OtherViews";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yzk-FD-JkS"; */
-"yzk-FD-JkS.title" = "Text Cell";
