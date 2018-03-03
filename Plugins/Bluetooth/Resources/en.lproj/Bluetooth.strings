@@ -1,19 +1,4 @@
 
-/* Class = "NSMenu"; title = "Menu"; ObjectID = "69"; */
-"69.title" = "Menu";
-
-/* Class = "NSMenuItem"; title = "Send File…"; ObjectID = "70"; */
-"70.title" = "Send File…";
-
-/* Class = "NSMenuItem"; title = "Pair with Device…"; ObjectID = "71"; */
-"71.title" = "Pair with Device…";
-
-/* Class = "NSMenuItem"; title = "Browse Device…"; ObjectID = "74"; */
-"74.title" = "Browse Device…";
-
-/* Class = "NSMenuItem"; title = "Bluetooth Devices"; ObjectID = "75"; */
-"75.title" = "Bluetooth Devices";
-
 /* Class = "NSTableColumn"; headerCell.title = "Device Name"; ObjectID = "82"; */
 "82.headerCell.title" = "Device Name";
 
@@ -32,21 +17,6 @@
 /* Class = "NSTableColumn"; headerCell.title = "Last Seen"; ObjectID = "91"; */
 "91.headerCell.title" = "Last Seen";
 
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "99"; */
-"99.title" = "OtherViews";
-
-/* Class = "NSMenuItem"; title = "Favorite Devices"; ObjectID = "104"; */
-"104.title" = "Favorite Devices";
-
-/* Class = "NSMenuItem"; title = "Recent Devices"; ObjectID = "105"; */
-"105.title" = "Recent Devices";
-
-/* Class = "NSMenuItem"; title = "Paired Devices"; ObjectID = "106"; */
-"106.title" = "Paired Devices";
-
-/* Class = "NSMenuItem"; title = "Connected Devices"; ObjectID = "115"; */
-"115.title" = "Connected Devices";
-
 /* Class = "NSTabViewItem"; label = "Properties"; ObjectID = "122"; */
 "122.label" = "Properties";
 
@@ -56,35 +26,8 @@
 /* Class = "NSTableColumn"; headerCell.title = "#"; ObjectID = "133"; */
 "133.headerCell.title" = "#";
 
-/* Class = "NSMenuItem"; title = "Set up Device…"; ObjectID = "151"; */
-"151.title" = "Set up Device…";
-
-/* Class = "NSMenuItem"; title = "Bluetooth Power"; ObjectID = "153"; */
-"153.title" = "Bluetooth Power";
-
 /* Class = "NSTableColumn"; headerCell.title = "Vendor"; ObjectID = "192"; */
 "192.headerCell.title" = "Vendor";
-
-/* Class = "NSMenuItem"; title = "Discoverable Devices"; ObjectID = "193"; */
-"193.title" = "Discoverable Devices";
-
-/* Class = "NSMenu"; title = "Menu"; ObjectID = "194"; */
-"194.title" = "Menu";
-
-/* Class = "NSMenuItem"; title = "Pair"; ObjectID = "195"; */
-"195.title" = "Pair";
-
-/* Class = "NSMenuItem"; title = "Send File"; ObjectID = "196"; */
-"196.title" = "Send File";
-
-/* Class = "NSMenuItem"; title = "Browse Files"; ObjectID = "197"; */
-"197.title" = "Browse Files";
-
-/* Class = "NSTextFieldCell"; title = "Bluetooth Scanner"; ObjectID = "100101"; */
-"100101.title" = "Bluetooth Scanner";
-
-/* Class = "NSTextFieldCell"; title = "Scan For:"; ObjectID = "100103"; */
-"100103.title" = "Scan For:";
 
 /* Class = "NSTableColumn"; headerCell.title = "Level"; ObjectID = "300163"; */
 "300163.headerCell.title" = "Level";
@@ -133,9 +76,6 @@
 
 /* Class = "NSToolbarItem"; paletteLabel = "Bluetooth Tools"; ObjectID = "IoL-eO-wty"; */
 "IoL-eO-wty.paletteLabel" = "Bluetooth Tools";
-
-/* Class = "NSTextFieldCell"; title = "01234567890123456789012345678901"; ObjectID = "LEb-kY-GNF"; */
-"LEb-kY-GNF.title" = "01234567890123456789012345678901";
 
 /* Class = "NSTableColumn"; headerCell.title = "Width"; ObjectID = "Xq6-OT-y2e"; */
 "Xq6-OT-y2e.headerCell.title" = "Width";
