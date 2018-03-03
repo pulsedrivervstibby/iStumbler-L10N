@@ -6,3 +6,54 @@
 
 /* PluginInspectorTitle */
 "Location Inspector" = "Inspector de ubicación";/**/
+
+/* Current Location */
+"Current Location" = "Ubicación actual";
+
+/* distancia */
+"distance" = "distancia";
+
+/* error */
+"error" = "error";
+
+/* address */
+"address" = "dirección";
+
+/* name */
+"name" = "nombre";
+
+/* Distances */
+"Distances" = "Distancias";
+
+/* mac */
+"mac" = "mac";
+
+/* best location */
+"best location" = "ubicación óptima";
+
+/* last seen */
+"last seen" = "última vez detectada";
+
+/* best estimate */
+"best estimate" = "estimación óptima";
+
+/* last estimate */
+"best time" = "hora óptima";
+
+/* last estimate */
+"last estimate" = "última estimación";
+
+/* last location */
+"last location" = "última ubicación";
+
+/* last scan */
+"last scan" = "última búsqueda";
+
+/* # items */
+"%lu Items" = "%lu Ítems";
+
+/* here */
+"here" = "aquí";
+
+/* still */
+"still" = "inmóvil";
