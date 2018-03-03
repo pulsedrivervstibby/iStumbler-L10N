@@ -6,3 +6,54 @@
 
 /* PluginInspectorTitle */
 "Location Inspector" = "Location Inspector";/**/
+
+/* Current Location */
+"Current Location" = "Current Location";
+
+/* dist */
+"distance" = "distance";
+
+/* error */
+"error" = "error";
+
+/* address */
+"address" = "address";
+
+/* name */
+"name" = "name";
+
+/* Distances */
+"Distances" = "Distances";
+
+/* mac */
+"mac" = "mac";
+
+/* best location */
+"best location" = "best location";
+
+/* last seen */
+"last seen" = "last seen";
+
+/* best estimate */
+"best estimate" = "best estimate";
+
+/* last estimate */
+"best time" = "best time";
+
+/* last estimate */
+"last estimate" = "last estimate";
+
+/* last location */
+"last location" = "last location";
+
+/* last scan */
+"last scan" = "last scan";
+
+/* # items */
+"%lu Items" = "%lu Items";
+
+/* here */
+"here" = "here";
+
+/* still */
+"still" = "still";
