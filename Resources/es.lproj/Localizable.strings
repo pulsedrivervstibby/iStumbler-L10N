@@ -63,4 +63,61 @@
 "Windows" = "Ventanas";
 
 /* SparkKit */
+
+/* No Data */
 "No Data" = "No hay datos";
+
+/* now */
+"now" = "ahora";
+
+/* RSRadioFormatter */
+
+/* days */
+"d" = "d";
+
+/* hours */
+"h" = "h";
+
+/* minutes */
+"m" = "m";
+
+/* seconds */
+"s" = "s";
+
+/* ago %@ */
+"%@ ago" = "hace %@";/*?*/
+
+/* just now */
+"just now" = "ahora mismo";/*?*/
+
+/* FCLocationFormatter */
+
+/* here */
+"here" = "aquí";
+
+/* still */
+"still" = "inmóvil";
+
+/* North */
+"N" = "N";
+
+/* South */
+"S" = "S";
+
+/* East */
+"E" = "E";
+
+/* West */
+"W" = "O";
+
+/* North East */
+"NE" = "NE";
+
+/* South East */
+"SE" = "SE";
+
+/* Sout West */
+"SW" ="SO";
+
+/* North West */
+"NW" = "NO";
