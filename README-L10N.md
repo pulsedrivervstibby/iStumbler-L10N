@@ -3,6 +3,9 @@
 
 iStumbler Localization Files Public Repository - Fork, Translate and Send a Pull Request!
 
+## Github
+
+    https://github.com/alfwatt/iStumbler-L10N
 
 ## Strings
 
