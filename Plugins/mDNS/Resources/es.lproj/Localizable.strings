@@ -5,34 +5,10 @@
 "full name" = "nombre completo";
 
 /* No comment provided by engineer. */
-"kCFNetServicesErrorTimeout" = "Timeout";/**/
-
-/* No comment provided by engineer. */
 "Network Addresses" = "Direcciones de red";
 
 /* No comment provided by engineer. */
 "No Service Selected" = "No hay servicio seleccionado";
-
-/* No comment provided by engineer. */
-"NSNetServicesActivityInProgress" = "In Progress";/**/
-
-/* No comment provided by engineer. */
-"NSNetServicesBadArgumentError" = "Bad Argument";/**/
-
-/* No comment provided by engineer. */
-"NSNetServicesCancelledError" = "Cancelled";/**/
-
-/* No comment provided by engineer. */
-"NSNetServicesCollisionError" = "Name Collision";/**/
-
-/* No comment provided by engineer. */
-"NSNetServicesInvalidError" = "Invalid Service";/**/
-
-/* No comment provided by engineer. */
-"NSNetServicesNotFoundError" = "Service Not Found";/**/
-
-/* No comment provided by engineer. */
-"NSNetServicesUnknownError" = "Unknown Error";/**/
 
 /* No comment provided by engineer. */
 "Text Records" = "Registros text";
