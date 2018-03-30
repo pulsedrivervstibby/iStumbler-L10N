@@ -52,8 +52,5 @@
 /* # items */
 "%lu Items" = "%lu Ítems";
 
-/* here */
-"here" = "aquí";
-
-/* still */
-"still" = "inmóvil";
+/* Location Services Disabled */
+"Location Services Disabled" = "Servicios de ubicación desactivados";

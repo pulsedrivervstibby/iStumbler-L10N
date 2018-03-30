@@ -1,9 +1,13 @@
+
 # iStumbler-L10N
+
 iStumbler Localization Files Public Repository - Fork, Translate and Send a Pull Request!
+
 
 ## Strings
 
 iStumbler has a number of modules and plugins each with a seperate strings file, including various xib files, internal frameworks and plugins.
+
 
 ## Extracting Strings
 
@@ -16,6 +20,23 @@ ibtool can be used to extract strings from xib files
     find . -name '*.strings' | cpio -pvdumB ../iStumbler-L10N/
 
     // TODO create a script to preview the changes in the running app
+
+but honestly, it makes a mess if you try to update strings, so expect to manually upte them
+
+
+## Marking Strings
+
+Not every string needs translating.
+
+    /* '' don't translate this one */
+    "string" = "string";/**/
+
+    /* ! review this one in the UI */
+    "string" = "string";/*!*/
+
+    /* ? machine or dictionary translated */
+    "string" = "string";/*?*/"
+
 
 ## License
 

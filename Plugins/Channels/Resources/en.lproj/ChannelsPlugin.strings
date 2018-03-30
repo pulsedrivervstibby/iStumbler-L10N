@@ -5,12 +5,6 @@
 /* Class = "NSToolbarItem"; paletteLabel = "Select View"; ObjectID = "41"; */
 "41.paletteLabel" = "Select View";
 
-/* Class = "NSBox"; title = "Grid"; ObjectID = "8I6-YP-4Hd"; */
-"8I6-YP-4Hd.title" = "Grid";
-
-/* Class = "NSTabViewItem"; label = "Grid"; ObjectID = "Eya-fz-n4i"; */
-"Eya-fz-n4i.label" = "Grid";
-
 /* Class = "NSSegmentedCell"; MIR-H8-5N1.ibShadowedToolTips[0] = "Ratings"; ObjectID = "MIR-H8-5N1"; */
 "MIR-H8-5N1.ibShadowedToolTips[0]" = "Ratings";
 
@@ -26,17 +20,8 @@
 /* Class = "NSToolbarItem"; paletteLabel = "Info"; ObjectID = "WKj-Wc-Lrl"; */
 "WKj-Wc-Lrl.paletteLabel" = "Info";
 
-/* Class = "NSTabViewItem"; label = "Table"; ObjectID = "asA-ZS-oVF"; */
-"asA-ZS-oVF.label" = "Table";
-
 /* Class = "NSTableColumn"; headerCell.title = "#"; ObjectID = "b5L-kP-laz"; */
 "b5L-kP-laz.headerCell.title" = "#";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bFa-wW-OWY"; */
-"bFa-wW-OWY.title" = "Text Cell";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nvE-cd-WBg"; */
-"nvE-cd-WBg.title" = "Text Cell";
 
 /* Class = "NSTableColumn"; headerCell.title = "Scan"; ObjectID = "qNG-09-OSI"; */
 "qNG-09-OSI.headerCell.title" = "Scan";

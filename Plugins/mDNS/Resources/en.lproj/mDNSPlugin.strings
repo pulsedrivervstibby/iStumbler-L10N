@@ -1,27 +1,9 @@
 
-/* Class = "NSMenu"; title = "Menu"; ObjectID = "9"; */
-"9.title" = "Menu";
-
-/* Class = "NSMenuItem"; title = "Connect"; ObjectID = "110"; */
-"110.title" = "Connect";
-
-/* Class = "NSMenuItem"; title = "Location"; ObjectID = "111"; */
-"111.title" = "Location";
-
 /* Class = "NSTextFieldCell"; title = "Browser Mode"; ObjectID = "100074"; */
 "100074.title" = "Browser Mode";
 
 /* Class = "NSButtonCell"; title = "Show Service Name"; ObjectID = "2YA-Sx-f0J"; */
 "2YA-Sx-f0J.title" = "Show Service Name";
-
-/* Class = "NSTabViewItem"; label = "Outline"; ObjectID = "2aE-Yo-FEZ"; */
-"2aE-Yo-FEZ.label" = "Outline";
-
-/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "2xC-MF-f9F"; */
-"2xC-MF-f9F.title" = "Label";
-
-/* Class = "NSButtonCell"; title = "Button"; ObjectID = "3SG-Pi-bCA"; */
-"3SG-Pi-bCA.title" = "Button";
 
 /* Class = "NSTextFieldCell"; title = "domain > services > hosts"; ObjectID = "3d6-aT-ZhW"; */
 "3d6-aT-ZhW.title" = "domain > services > hosts";
@@ -38,17 +20,8 @@
 /* Class = "NSToolbarItem"; paletteLabel = "Service Location"; ObjectID = "C3a-5p-wH8"; */
 "C3a-5p-wH8.paletteLabel" = "Service Location";
 
-/* Class = "NSTextFieldCell"; title = "http, ssh, afp"; ObjectID = "Fig-aB-eyZ"; */
-"Fig-aB-eyZ.title" = "http, ssh, afp";
-
-/* Class = "NSTabViewItem"; label = "Browser"; ObjectID = "GaG-ph-1h4"; */
-"GaG-ph-1h4.label" = "Browser";
-
-/* Class = "NSTabViewItem"; label = "Collection"; ObjectID = "Gud-hO-O2Y"; */
-"Gud-hO-O2Y.label" = "Collection";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "GzN-Fu-tWD"; */
-"GzN-Fu-tWD.title" = "Text Cell";
+/* Class = "NSTextFieldCell"; title = "http, ssh, afp, & c."; ObjectID = "Fig-aB-eyZ"; */
+"Fig-aB-eyZ.title" = "http, ssh, afp, & c.";
 
 /* Class = "NSToolbarItem"; label = "Info"; ObjectID = "H9o-T0-zcR"; */
 "H9o-T0-zcR.label" = "Info";
@@ -74,26 +47,17 @@
 /* Class = "NSTextFieldCell"; title = "Service Display"; ObjectID = "aqh-Kg-fSk"; */
 "aqh-Kg-fSk.title" = "Service Display";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "chg-AM-cP2"; */
-"chg-AM-cP2.title" = "Box";
-
 /* Class = "NSButtonCell"; title = "Show Hosts in Domain"; ObjectID = "cuA-MF-DKf"; */
 "cuA-MF-DKf.title" = "Show Hosts in Domain";
 
 /* Class = "NSButtonCell"; title = "Radio"; ObjectID = "dUO-bH-zla"; */
 "dUO-bH-zla.title" = "Radio";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fs2-1b-XIt"; */
-"fs2-1b-XIt.title" = "Text Cell";
-
 /* Class = "NSTextFieldCell"; title = "domain > hosts > services"; ObjectID = "nQT-S9-Mbx"; */
 "nQT-S9-Mbx.title" = "domain > hosts > services";
 
-/* Class = "NSTextFieldCell"; title = "Web Sharing, Remote Login, File Sharing"; ObjectID = "vAX-Hg-56L"; */
-"vAX-Hg-56L.title" = "Web Sharing, Remote Login, File Sharing";
-
-/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "wWn-Nn-6MV"; */
-"wWn-Nn-6MV.title" = "Label";
+/* Class = "NSTextFieldCell"; title = "File Sharing, Printer, & c."; ObjectID = "vAX-Hg-56L"; */
+"vAX-Hg-56L.title" = "File Sharing, Printer, & c.";
 
 /* Class = "NSButtonCell"; title = "Show Services in Domain"; ObjectID = "zMl-Fh-xxZ"; */
 "zMl-Fh-xxZ.title" = "Show Services in Domain";

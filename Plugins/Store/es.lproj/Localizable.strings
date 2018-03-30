@@ -8,9 +8,6 @@
 /* PluginInspectorTitle */
 "License Inspector" = "Inspector de licencia";/*!*/
 
-/* Store */
-"Store" = "Store";/**/
-
 /* Store Link URL */
 "Store Link URL" = "https://istumbler.net/store/?r=app";
 
@@ -69,7 +66,7 @@
 "Date" = "Fecha";
 
 /* License Timestamp */
-"Timestamp" = "Date";/**/
+"Timestamp" = "Fecha";/**/
 
 /* License Signature */
 "Signature" = "Firma";
