@@ -85,10 +85,10 @@
 "s" = "s";
 
 /* ago %@ */
-"%@ ago" = "hace %@";/*?*/
+"%@ ago" = "hace %@";
 
 /* just now */
-"just now" = "ahora mismo";/*?*/
+"just now" = "ahora mismo";
 
 /* FCLocationFormatter */
 
